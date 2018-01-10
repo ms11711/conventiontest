@@ -1,0 +1,6 @@
+.htaccess
+vendor
+assets/SouvenirBook*.pdf
+admin
+vid
+.sass-cache

@@ -1,0 +1,328 @@
+ *{
+  box-sizing:border-box;
+ }
+
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+.input-field .prefix {
+  top: 14px;
+}
+.error {
+  padding: 0 10px;
+  color: #f00;
+  font-weight: bold;
+    font-size: 14px;
+}
+
+.errors{
+	color:red;
+	font-weight: bold;
+    padding: 0;
+}
+
+fieldset{
+  padding: 30px !important;
+}
+
+
+.captcha-box{
+  padding: 25px 0px;
+}
+
+.sign-input{
+  /*display: inline-block;*/
+  width:55% !important;
+}
+
+#userForm{
+  margin-left: 10px;
+}
+
+#userForm h5{
+  margin-left: -10px;
+}
+
+.signup-field{
+  position: relative;
+}
+
+.signup-field .prefix {
+  position: absolute;
+    top: 30px;
+  left: -30px;
+}
+
+.shift-field{
+  margin-left: 45px;
+}
+
+.error.shift-field{
+  padding-left: 0;
+}
+
+.shift-field .captcha-box {
+  padding: 10px 0px;
+}
+
+.container{
+  position:relative;
+  width: 95%;
+}
+
+.inline-block{
+  display: inline-block;
+}
+
+.right-settings{
+    float: right;
+  display: inline-block;
+}
+
+.right-settings>li{
+  float: left;
+}
+
+.right-settings>li:first-child{
+  margin-right: 20px;
+}
+
+.text-area{
+    width: 468px !important;
+}
+
+.mail-to{
+  width: initial;
+}
+
+.dataTables_length select{
+  width:60%;
+}
+
+.dataTables_wrapper .dataTables_length {
+    text-align: right;
+    float: right !important;
+}
+
+.dataTables_wrapper .dataTables_filter {
+    float: left !important;
+    text-align: left;
+}
+
+.dataTables_wrapper .dataTables_filter input {
+    margin-left: 0 !important;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+   
+   border-bottom: 1px solid #d0d0d0 !important; 
+}
+
+table.dataTable.no-footer {
+    border-bottom: none !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current:hover {
+    color: #fff !important;
+    border: none;
+    background-color: white;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ef5350), color-stop(100%, #b71c1c));
+    background: -webkit-linear-gradient(top, #ef5350 0%, #b71c1c 100%);
+    background: -moz-linear-gradient(top, #ef5350 0%, #b71c1c 100%);
+    background: -ms-linear-gradient(top, #ef5350 0%, #b71c1c 100%);
+    background: -o-linear-gradient(top, #ef5350 0%, #b71c1c 100%);
+    background: linear-gradient(to bottom, #ef5350 0%, #b71c1c 100%);
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 1.5em;
+    padding: 0.5em 1em;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: pointer;
+    color: #333 !important;
+    border: 1px solid transparent;
+    border-radius: 2px;
+}
+
+.user-count ul{
+  width: 100%;
+}
+
+.user-count li{
+  display: inline-block;
+  width: 19.5%;
+  padding: 22px 0;
+  border-radius: 5px;
+}
+
+@media screen and (max-width:601px){
+  .user-count li{
+  padding: 22px 0;
+  } 
+  .user-count li h5{
+  font-size: 18px;
+  }
+}
+@media screen and (max-width:321px){
+  .user-count li{
+  padding: 12px 0;
+  width: 18.5%;
+  } 
+  .user-count li h5{
+  font-size: 10px;
+  }
+  .right-settings {
+    float: left;
+  }
+}
+
+#profileForm{
+  margin-left: 12px;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    padding: 10px 0px !important;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+    padding: 10px 0px !important;
+}
+
+#th-id{
+  width: 30px !important;
+}
+
+#th-active{
+  width: 40px !important; 
+}
+
+#th-admin{
+  width: 40px !important;
+}
+
+#th-manager{
+  width: 60px !important;
+}
+
+#th-subscriber{
+  width: 60px !important;
+}
+
+#th-lastlogin{
+  width: 150px !important;
+}
+
+#th-actions{
+  width: 180px !important;
+  min-width: 180px !important;
+}
+
+@media only screen and (max-width: 992px){
+  #th-id,#th-name,#th-email,#th-active,#th-admin,#th-manager,#th-subscriber,#th-lastlogin,#th-actions{
+    width: 100% !important;
+  }
+}
+
+
+
+/**sky form customize css**/
+.sky-form {
+  font-family: "Arimo", sans-serif;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  -ms-box-shadow: none;
+  box-shadow: none;
+}
+.sky-form footer {
+  background-color: transparent;
+  border: 0px;
+  padding: 15px 30px 15px;
+}
+.sky-form a {
+  color: #1ab394;
+}
+
+.sky-form-modal {
+  z-index: 9999;
+}
+.sky-form-modal footer {
+  background-color: #fff;
+}
+
+.sky-form-modal-overlay {
+  z-index: 999;
+}
+
+.sky-form-login {
+  margin-bottom: 20px;
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f5f5f5));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffffff 0%, #f5f5f5 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
+  /* IE6-9 */
+  padding: 15px 30px;
+  padding-top: 30px;
+  border: 1px solid #ddd;
+}
+.sky-form-login fieldset {
+  background-color: transparent;
+}
+.sky-form-login .sky-form-modal fieldset {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.sky-form-login h3 {
+  font-size: 15px;
+  color: #000;
+  text-transform: uppercase;
+}
+.sky-form-login h3 i {
+  margin-right: 20px;
+}
+
+.login-register-aside-box {
+  background: #ffffff;
+  /* Old browsers */
+  background: -moz-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #ffffff), color-stop(100%, #f5f5f5));
+  /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* Opera 11.10+ */
+  background: -ms-linear-gradient(top, #ffffff 0%, #f5f5f5 100%);
+  /* IE10+ */
+  background: linear-gradient(to bottom, #ffffff 0%, #f5f5f5 100%);
+  /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f5f5f5',GradientType=0 );
+  /* IE6-9 */
+  padding: 30px;
+  border: 1px solid #ddd;
+}
+.login-register-aside-box h3 {
+  color: #000;
+  font-size: 16px;
+  text-transform: uppercase;
+}
