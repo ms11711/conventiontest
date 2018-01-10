@@ -32,3 +32,9 @@ P2 -
   $ npm install
   ```
   4) TO develop - cd into p2_react, run ```node run dev-server```, and then you should be able to view your app on localhost:8080. Changes you make to files will automatically be refreshed in the page.
+  
+  Folders:
+    live2016 - contains most of the code from the 2016 convention site. Feel free to take pieces from here as needed.
+    p1_static - code for the static mockup. There are some html/css/js folders but feel free to use  whatever organization works best
+    p2_react - Starting point for creating React components (contains a basic webpack configuration, index.html to attach react components to, and a folder of components). Has babel so feel free to use ES6 as well
+    p3_backend - Laravel backend (php). We'll port over the above parts to laravel once done.
