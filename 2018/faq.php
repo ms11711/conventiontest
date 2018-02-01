@@ -1,5 +1,5 @@
 <?php require_once 'includes/init.php'; ?>
-<?php include "config/config.php" ?> 
+<?php include "config/config.php" ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -12,25 +12,25 @@
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-<?php echo $config_favicon; ?>   
+<?php echo $config_favicon; ?>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-       
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-            
-            
+
+
         <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
         <link rel="icon" href="img/favicon.png" type="image/x-icon">
-        
-        
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -67,7 +67,7 @@
                     <div class="center-heading">
                         <h2>Frequently Asked Questions</h2>
                         <span class="center-line"></span>
-                        <p class="lead">If we were unable to answer all of your questions, please send us an e-mail at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</p>
+                        <p class="lead">If we are unable to answer your questions, please email us at regtech@yja.org <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</p>
                     </div><!--center-heading-->
                 </div>
             </div>
@@ -80,13 +80,13 @@
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse1-1">
-                                        Where and when will the 12th Biennial YJA Convention take place?
+                                        Where and when will the 13th Biennial YJA Convention take place?
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapse1-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                  The 2016 YJA Convention will be held at the Sheraton Gateway LAX from July 1st to July 4th, 2016. The site has been reserved for the Convention attendees and guests and will be appropriately prepared for a safe Jain environment.  
+                                  The 2018 YJA Convention will be held at the Westin O'hare from July 5th to July 8th, 2018. The site has been reserved for the Convention attendees and guests and will be appropriately prepared for a safe Jain environment.
                                 </div>
                             </div>
                         </div>
@@ -108,13 +108,13 @@
                             <div class="panel-heading">
                                 <h4 class="panel-title">
                                     <a data-toggle="collapse" data-parent="#accordion" href="#collapse1-3">
-                                        Who is on the 2016 YJA Convention Board?
+                                        Who is on the 2018 YJA Convention Board?
                                     </a>
                                 </h4>
                             </div>
                             <div id="collapse1-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Interested in who is on board? Check out our <a href="board.php"">board biography page</a> to learn about the wonderful people who are organizing the 2016 YJA Convention.
+                                    Interested in who is on board? Check out our <a href="board.php"">board biography page</a> to learn about the wonderful people who are organizing the 2018 YJA Convention.
                                 </div>
                             </div>
                         </div>
@@ -159,7 +159,7 @@
                                         You can download a copy of the rules and regulations <a href="https://convention.yja.org/assets/RulesRegulations2016.pdf" target="_blank">here</a>.
                                 </div>
                             </div>
-                        </div>                         
+                        </div>
                     </div>
                 </div><!--collapse col-->
 
@@ -178,7 +178,7 @@
                             </div>
                             <div id="collapse2-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    We will cover topics such as Jain philosophy, culture, knowledge, global impact, leadership, school and careers, spiritual development, interfaith dialogues, and community contributions through discussions, panels, debates and interactive sessions. 
+                                    We will cover topics such as Jain philosophy, culture, knowledge, global impact, leadership, school and careers, spiritual development, interfaith dialogues, and community contributions through discussions, panels, debates and interactive sessions.
                                 </div>
                             </div>
                         </div>
@@ -206,7 +206,7 @@
                             </div>
                             <div id="collapse2-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    This year’s Convention will be featuring traditional YJA nighttime activities such as the garba, talent show, and the formal. There will also be “track specific” nighttime events targeted specifically towards high school/college attendees or Jain Networking Forum (JNF) attendees. As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our talent show, Decades of Dance: Bollywood through the Ages, where performers from across the US will showcase their artistic skill and the various eras of Bollywood. After that, you don’t want to miss Straight Outta Gujarat, where traditional Indian dance meets the classic Los Angeles vibe, followed by our West Coast Floats Mixer where you will get time to relax with ice cream and soda. Finally, join us at the Maharaja’s Court Formal for a night of majesty and grandeur. 
+                                    This year’s Convention will be featuring traditional YJA nighttime activities such as the garba, talent show, and the formal. There will also be “track specific” nighttime events targeted specifically towards high school/college attendees or Jain Networking Forum (JNF) attendees. 
                             </div>
                         </div>
                         <div class="panel panel-default">
@@ -250,11 +250,11 @@
                                     Coming soon!
                                 </div>
                             </div>
-                        </div>                         
+                        </div>
                     </div>
-                </div><!--collapse col--> 
+                </div><!--collapse col-->
             </div>
- 
+
                 <div class="col-md-12">
                     <h4>Resources/Support During the Convention</h4>
                     <div class="panel-group" id="accordion">
@@ -312,7 +312,7 @@
                                     Yes, wireless internet will be provided in public areas and guest rooms only.
                                 </div>
                             </div>
-                        </div>                        
+                        </div>
                     </div>
                 </div><!--collapse col-->
             </div>
@@ -348,7 +348,7 @@
                                     Volunteers will be necessary to make this a successful Convention! Any amount of time, from four hours to the length of the entire Convention, will help us make everything run smoothly. Some of the areas that we will need volunteers are to transport people to and from the Convention, register attendees as they arrive, help for security, set up sessions and evening events, as well as assist speakers. Volunteers for this Convention cannot be between the ages of 14-29. If you are interested in volunteering, please fill out the <a href="http://goo.gl/forms/CC3czGx7OR" target="_blank">2016 YJA Volunteer Interest Form</a> and we will contact you during the months of April-May for further instructions. For any further questions, feel free to contact us at <a href="mailto:volunteer.la@yja.org">volunteer.la@yja.org</a>.
                                 </div>
                             </div>
-                        </div>                       
+                        </div>
                     </div>
                 </div><!--collapse col-->
 
@@ -382,7 +382,7 @@
                                     We expect that all of our attendees will conduct themselves in a polite, professional manner. To that end, YJA enforces a strict dress code during the Convention in order to foster our professional image. Our guidelines on appropriate attire are designed to promote a more productive, enjoyable social environment, while maintaining the high level of respect for speakers, for which our organization is known for. We recommend wearing event appropriate attire throughout the Convention. Should you have any questions or concerns, please contact <a href="mailto:info@yja.org">info@yja.org</a>.
                                 </div>
                             </div>
-                        </div>                       
+                        </div>
                     </div>
                 </div><!--collapse col-->
 
@@ -457,7 +457,7 @@
                                     Please e-mail <a href="mailto:reghelp@yja.org">reghelp@yja.org</a> to cancel your registration. All cancellations regardless of reasons prior to May 11, 2016 will be entitled to 50% refund of all collected fee amount. Cancellations after May 11, 2016 will be entitled to 25% refund of all collected fee amount. Absolutely no refunds for cancellations shall be given after June 15, 2016 regardless of reasons.
                                 </div>
                             </div>
-                        </div> 
+                        </div>
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
@@ -471,7 +471,7 @@
                                     For those that would like to attend but are in need of financial assistance, please download and complete the <a href="https://convention.yja.org/assets/GeneralFinancialAssistanceForm2016.doc" target="_blank">Financial Assistance Form</a> and e-mail it to <a href="mailto:chairs.la@yja.org">chairs.la@yja.org</a>. Financial assistance is limited and will be awarded on a first-come first-served basis until our allocation is exhausted.
                                 </div>
                             </div>
-                        </div>                        
+                        </div>
                     </div>
                 </div><!--collapse col-->
             </div>
@@ -519,7 +519,7 @@
                                 <div class="panel-body">
                                 Delicious Jain food will be served for the duration of the Convention. This includes a variety of cuisines ranging from Mexican to Italian to Indian. No onions, potatoes, root vegetables, meats, or animal byproducts will be distributed or used to prepare the meals. A vegan diet option will also be available (the attendee must specify this at the time of registration or contact <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>).
                             </div>
-                        </div>                    
+                        </div>
                     </div>
                 </div><!--collapse col-->
             </div>
@@ -532,9 +532,9 @@
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -543,22 +543,22 @@
         <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--digit countdown plugin-->
         <script src="js/waypoints.min.js"></script>
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--you tube player-->
         <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
     </body>

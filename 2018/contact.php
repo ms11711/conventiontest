@@ -12,23 +12,23 @@
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-    
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
-        
-        
-        
+
+
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -55,7 +55,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h4>Contact us</h4>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div><!--breadcrumbs-->
@@ -64,10 +64,15 @@
             <div class="row">
                 <div class="col-md-8 margin30">
                     <h3>
-                        Questions? Please email <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.
+                        Questions? We're here to help!
                     </h3>
 
-                    <!-- 
+                    <img src="img/contactpageboardphoto.jpg" class="" alt="">
+            </div>
+            <div class="row">
+                    Email Us at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.
+            </div>
+                    <!--
                     <div class="divide30"></div>
                     <div class="form-contact">
                         <div class="required">
@@ -94,7 +99,7 @@
                                             <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
                                             <p class="help-block"></p>
                                         </div>
-                                    </div> 
+                                    </div>
                                 </div>
                             </div>
                             <div class="row control-group">
@@ -156,14 +161,14 @@
             </div>
         </div>
         <div class="divide40"></div>
-                  
+
         <?php include "config/footer.php" ?>
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -172,26 +177,26 @@
         <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--digit countdown plugin-->
         <script src="js/waypoints.min.js"></script>
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--you tube player-->
         <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
 
-        
+
         <!--cantact form script-->
         <script src="js/contact_me.js" type="text/javascript"></script>
         <script src="js/jqBootstrapValidation.js" type="text/javascript"></script>
