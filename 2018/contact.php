@@ -67,8 +67,9 @@
                         Questions? We're here to help!
                     </h3>
 
-                    <img src="img/contactpageboardphoto.jpg" class="" alt="">
-            </div>
+                    <img src="img/contactpageboardphoto.jpg" class="img-responsive" alt="">
+                  </div>
+                </div>
             <div class="row">
                     Email Us at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.
             </div>

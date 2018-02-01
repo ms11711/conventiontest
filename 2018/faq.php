@@ -206,7 +206,7 @@
                             </div>
                             <div id="collapse2-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    This year’s Convention will be featuring traditional YJA nighttime activities such as the garba, talent show, and the formal. There will also be “track specific” nighttime events targeted specifically towards high school/college attendees or Jain Networking Forum (JNF) attendees. 
+                                    This year’s Convention will be featuring traditional YJA nighttime activities such as the garba, talent show, and the formal. There will also be “track specific” nighttime events targeted specifically towards high school/college attendees or Jain Networking Forum (JNF) attendees.
                             </div>
                         </div>
                         <div class="panel panel-default">
