@@ -5,13 +5,20 @@ $ git clone https://github.com/anishpdoshi/convention2018.git
 $ cd convention2018
 ```
 
+# Serving the `live2016` and `2018` sites
+
+```
+php -S live2016
+php -S 2018
+```
+
 Prerequisites:
 P1 - None! You can create HTML/CSS/JS files locally, and simply view the results in your browser.
 
-P2 - 
+P2 -
 
   1) install Node.js + NPM
-    Mac: 
+    Mac:
       1) get homebrew: https://brew.sh/
       2) install node
       ```
@@ -32,7 +39,7 @@ P2 -
   $ npm install
   ```
   4) TO develop - cd into p2_react, run ```node run dev-server```, and then you should be able to view your app on localhost:8080. Changes you make to files will automatically be refreshed in the page.
-  
+
   Folders:
     live2016 - contains most of the code from the 2016 convention site. Feel free to take pieces from here as needed.
     p1_static - code for the static mockup. There are some html/css/js folders but feel free to use  whatever organization works best

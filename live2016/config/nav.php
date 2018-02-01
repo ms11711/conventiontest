@@ -69,8 +69,8 @@
                         <li class="dropdown ">
                             <a href="#" class="dropdown-toggle " data-toggle="dropdown">Convention <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu multi-level" role="menu">
-                                <li><a href="about">About</a></li>
-                                <li><a href="board">Board</a></li>
+                                <li><a href="about.php"">About</a></li>
+                                <li><a href="board.php"">Board</a></li>
                                 <li><a href="location">Location</a></li>
                                 <li><a href="registernow">Registration</a></li>
                                 <li><a href="transportation">Transportation</a></li>
@@ -87,7 +87,7 @@
                                 <li><a href="daytime">Daytime Programming</a></li>
                                 <li><a href="essaycontest">Essay Contest</a></li>
                                 <li><a href="jab">Jain Academic Bowl (JAB)</a></li>
-                                <li><a href="jia">Jains in Action (JIA)</a></li>
+                                <li><a href="jia.php">Jains in Action (JIA)</a></li>
                                 <li><a href="jnf">Jain Networking Forum (JNF)</a></li>
                                 <li><a href="social">Social Programming</a></li> 
                             </ul>
