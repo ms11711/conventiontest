@@ -58,7 +58,7 @@ require_once 'includes/init.php';
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6">
-                        <h4>Los Angeles</h4>
+                        <h4>Chicago, Illinois</h4>
                     </div>
 
                 </div>
@@ -66,7 +66,7 @@ require_once 'includes/init.php';
         </div><!--breadcrumbs-->
 
 
-        <div class="divide60"></div>
+        <div class="divide30"></div>
 
 
         <div class="container">
@@ -101,26 +101,46 @@ require_once 'includes/init.php';
 
             <div class="row">
 
-                    <h3 class="heading">Contact Information</h3>
-                    <ul class="list-unstyled contact contact-info">
-                        <li><p><strong><i class="fa fa-map-marker"></i> Address:</strong> 6100 N River Rd, Rosemont, IL 60018<div>
 
-                          Phone: (847) 698-6000</p></li>
-                    </ul>
 
-                  <div id="map-canvas"></div>
-                  <br>
-                <div>
+
+
+                <div class="col-sm-6">
+
+                            <h3 class="heading">Contact Information</h3>
+
+                            <ul class="list-unstyled contact contact-info">
+                                <li><p><strong><i class="fa fa-map-marker"></i> Address:</strong> 6100 N River Rd, Rosemont, IL 60018<div>
+
+                                  Phone: (847) 698-6000</p></li>
+                            </ul>
+
+                          <div id="map-canvas"></div>
+                          <br>
+                        </div>
+                        <div>
+
+
+
+                <div class="col-sm-6">
                     <h3 class="heading">Shuttle Service</h3>
 
 
                       Complimentary Shuttle Service
-Effortlessly access Chicago O'Hare International Airport via our hotel's complimentary shuttle service.
+                    Effortlessly access Chicago O'Hare International Airport via our hotel's complimentary shuttle service.
 
-For domestic flights, pick up is at the Hotel Shuttle Center Door #3, which is located just off the baggage claim area.
-Between Midnight and 5:00am, please call 847-698-6000 to arrange service
-Pickup at the International Terminal is available upon request. Please call the hotel directly upon arrival to arrange for pickup. Disabled accessible shuttles are available upon request.
+                    For domestic flights, pick up is at the Hotel Shuttle Center Door #3, which is located just off the baggage claim area.
+                    Between Midnight and 5:00am, please call 847-698-6000 to arrange service
+                    Pickup at the International Terminal is available upon request. Please call the hotel directly upon arrival to arrange for pickup. Disabled accessible shuttles are available upon request.
 
+
+                    </div>
+
+
+                    </div>
+
+
+                    </div>
 
                 </div>
 
