@@ -5,7 +5,7 @@ $ git clone https://github.com/anishpdoshi/convention2018.git
 $ cd convention2018
 ```
 
-# Serving the `live2016` and `2018` sites
+# ⚠️⚠️⚠️⚠️ IMPORTANT: Serving the `live2016` and `2018` sites
 
 ```
 php -S live2016
