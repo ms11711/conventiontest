@@ -1,3 +1,5 @@
+
+
 <?php require_once 'includes/init.php'; ?>
 <?php include "config/config.php" ?>
 <!DOCTYPE html>
@@ -67,7 +69,7 @@
                     <div class="center-heading">
                         <h2>Frequently Asked Questions</h2>
                         <span class="center-line"></span>
-                        <p class="lead">If we are unable to answer your questions, please email us at regtech@yja.org <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</p>
+                        <p class="lead">If we are unable to answer your questions, please email us at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</p>
                     </div><!--center-heading-->
                 </div>
             </div>
@@ -128,7 +130,7 @@
                             </div>
                             <div id="collapse1-4" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Nearly 700 youth from across North America and around the world are expected to attend the 12th Biennial YJA Convention.
+                                    Nearly 750 youth from across North America and around the world are expected to attend the 12th Biennial YJA Convention.
                                 </div>
                             </div>
                         </div>
@@ -296,7 +298,7 @@
                             </div>
                             <div id="collapse3-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Adult volunteers will be chaperones and will be helping throughout the Convention. If you are an adult or know an adult who would like to get involved, please email <a href="mailto:volunteer.la@yja.org">volunteer.la@yja.org</a>.
+                                    Adult volunteers will be chaperones and will be helping throughout the Convention. If you are an adult or know an adult who would like to get involved, please email <a href="mailto:volunteer.chi@yja.org">volunteer.chi@yja.org</a>.
                             </div>
                         </div>
                         <div class="panel panel-default">
@@ -309,7 +311,7 @@
                             </div>
                             <div id="collapse3-4" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Yes, wireless internet will be provided in public areas and guest rooms only.
+                                    Yes, wireless internet will be provided in select areas of the hotel and guest rooms.
                                 </div>
                             </div>
                         </div>
@@ -331,7 +333,7 @@
                             </div>
                             <div id="collapse4-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Please fill out the <a href="http://goo.gl/forms/CC3czGx7OR" target="_blank">2016 YJA Volunteer Interest Form</a> if you would like to volunteer to help during the actual Convention. We ask that only adults ages 35 and older volunteer because anyone between the ages of 14-29 we would want to attend the Convention. Youth can get involved by helping to fundraise (<a href="mailto:fundraising.la@yja.org">fundraising.la@yja.org</a>) and helping to publicize the Convention (<a href="mailto:pr.la@yja.org">pr.la@yja.org</a>).
+                                    Please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3WYJ84Imalq1IzU4m93ZWSdYsL7o0HxayGyBTcSkhGXrlLg/viewform" target="_blank">2018 YJA Volunteer Interest Form</a> if you would like to volunteer to help during the actual Convention. We ask that only adults ages 35 and older volunteer because anyone between the ages of 14-29 we would want to attend the Convention. Youth can get involved by helping to fundraise (<a href="mailto:fundraising.chi@yja.org">fundraising.chi@yja.org</a>) and helping to publicize the Convention (<a href="mailto:pr.chi@yja.org">pr.chi@yja.org</a>).
                                 </div>
                             </div>
                         </div>
@@ -345,7 +347,7 @@
                             </div>
                             <div id="collapse4-2" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Volunteers will be necessary to make this a successful Convention! Any amount of time, from four hours to the length of the entire Convention, will help us make everything run smoothly. Some of the areas that we will need volunteers are to transport people to and from the Convention, register attendees as they arrive, help for security, set up sessions and evening events, as well as assist speakers. Volunteers for this Convention cannot be between the ages of 14-29. If you are interested in volunteering, please fill out the <a href="http://goo.gl/forms/CC3czGx7OR" target="_blank">2016 YJA Volunteer Interest Form</a> and we will contact you during the months of April-May for further instructions. For any further questions, feel free to contact us at <a href="mailto:volunteer.la@yja.org">volunteer.la@yja.org</a>.
+                                    Volunteers will be necessary to make this a successful Convention! Any amount of time, from four hours to the length of the entire Convention, will help us make everything run smoothly. Some of the areas that we will need volunteers are to transport people to and from the Convention, register attendees as they arrive, help for security, set up sessions and evening events, as well as assist speakers. Volunteers for this Convention cannot be between the ages of 14-29. If you are interested in volunteering, please fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3WYJ84Imalq1IzU4m93ZWSdYsL7o0HxayGyBTcSkhGXrlLg/viewform" target="_blank">2018 YJA Volunteer Interest Form</a> and we will contact you during the months of April-May for further instructions. For any further questions, feel free to contact us at <a href="mailto:volunteer.chi@yja.org">volunteer.chi@yja.org</a>.
                                 </div>
                             </div>
                         </div>
@@ -399,7 +401,7 @@
                             </div>
                             <div id="collapse6-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    High School (those in high school or entering high school in Fall 2016); College (those in college or entering college in Fall 2016); and JNF (ages 21-29). <strong>Note: High school seniors who will be 18 by July 1, 2016 can choose between high school or college. College seniors who will be 21 by July 1, 2016 can choose between college or JNF.</strong>
+                                    High School (those in high school or entering high school in Fall 2018); College (those in college or entering college in Fall 2018); and JNF (ages 21-29). <strong>Note: High school seniors who will be 18 by July 1, 2018 can choose between high school or college. College seniors who will be 21 by July 1, 2018 can choose between college or JNF.</strong>
                                 </div>
                             </div>
                         </div>
@@ -427,7 +429,7 @@
                             </div>
                             <div id="collapse6-3" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    To provide each attendee with hotel accommodations, meals, and the opportunity to attend sessions and social events, the actual total cost per person is $425.00 for HS/college students and $475.00 for JNF attendees. YJA works very hard in fundraising during the year to help subsidize each attendee's cost of attendance by $86.00 and $100.00 for HS/college students and JNF attendees, respectively. We would greatly appreciate it if you could help YJA by choosing the "Unsubsidized" pricing option at the time of payment. This would help us raise the money we need to ensure YJA remains affordable for as many potential attendees as possible. Thank you all very much!
+                                    To provide each attendee with hotel accommodations, meals, and the opportunity to attend sessions and social events, the actual total cost per person is $399.00 for HS/college students and $449.00 for JNF attendees. YJA works very hard in fundraising during the year to help subsidize each attendee's cost of attendance by $90.00 and $100.00 for HS/college students and JNF attendees, respectively. We would greatly appreciate it if you could help YJA by choosing the "Unsubsidized" pricing option at the time of payment. This would help us raise the money we need to ensure YJA remains affordable for as many potential attendees as possible. Thank you all very much!
                             </div>
                         </div>
                         <div class="panel panel-default">
@@ -454,7 +456,7 @@
                             </div>
                             <div id="collapse6-5" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Please e-mail <a href="mailto:reghelp@yja.org">reghelp@yja.org</a> to cancel your registration. All cancellations regardless of reasons prior to May 11, 2016 will be entitled to 50% refund of all collected fee amount. Cancellations after May 11, 2016 will be entitled to 25% refund of all collected fee amount. Absolutely no refunds for cancellations shall be given after June 15, 2016 regardless of reasons.
+                                    Please e-mail <a href="mailto:reghelp@yja.org">reghelp@yja.org</a> to cancel your registration. All cancellations regardless of reasons prior to May 11, 2018 will be entitled to 50% refund of all collected fee amount. Cancellations after May 11, 2018 will be entitled to 25% refund of all collected fee amount. Absolutely no refunds for cancellations shall be given after June 15, 2018 regardless of reasons.
                                 </div>
                             </div>
                         </div>
@@ -468,7 +470,7 @@
                             </div>
                             <div id="collapse6-6" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    For those that would like to attend but are in need of financial assistance, please download and complete the <a href="https://convention.yja.org/assets/GeneralFinancialAssistanceForm2016.doc" target="_blank">Financial Assistance Form</a> and e-mail it to <a href="mailto:chairs.la@yja.org">chairs.la@yja.org</a>. Financial assistance is limited and will be awarded on a first-come first-served basis until our allocation is exhausted.
+                                    For those that would like to attend but are in need of financial assistance, please download and complete the <a href="https://convention.yja.org/assets/GeneralFinancialAssistanceForm2016.doc" target="_blank">Financial Assistance Form</a> and e-mail it to <a href="mailto:chairs.chi@yja.org">chairs.chi@yja.org</a>. Financial assistance is limited and will be awarded on a first-come first-served basis until our allocation is exhausted.
                                 </div>
                             </div>
                         </div>
@@ -489,7 +491,7 @@
                             </div>
                             <div id="collapse7-1" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Check-in will begin at 1:00pm on July 1st and continue throughout the day. It is recommended that attendees arrive as early as possible for the chance to experience opening day activities as well as meet and mingle with old and new friends.
+                                    Check-in will begin at 1:00pm on July 5th and continue throughout the day. It is recommended that attendees arrive as early as possible for the chance to experience opening day activities as well as meet and mingle with old and new friends.
                                 </div>
                             </div>
                         </div>
@@ -503,7 +505,7 @@
                             </div>
                             <div id="collapse7-2" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    A 24/7 shuttle will be available to/from LAX Airport for attendees to use.
+                                    A shuttle service will be available to/from Chicago O'hare Airport for attendees to use.
                                 </div>
                             </div>
                         </div>
