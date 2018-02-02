@@ -12,23 +12,23 @@
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-    
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
-        
-        
-        
+
+
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -59,7 +59,7 @@
                     <div class="col-sm-6">
                         <h4>Volunteer</h4>
                     </div>
-                    
+
                 </div>
             </div>
         </div><!--breadcrumbs-->
@@ -70,7 +70,7 @@
             <div class="row">
                 <div class="col-md-12 margin30">
                     <h3 class="heading">Volunteering</h3>
-                    <p>The 2016 YJA Convention would not be possible without the tireless work of our volunteers. The Adult Volunteer Committee is looking for dedicated individuals to help us host a successful convention. We need volunteers from around 8am on Friday, July 1st, to 2pm on Monday, July 4th. However, generally, volunteers will be working from around 6am to 3am during various shifts on the Saturday and Sunday (July 2nd/3rd) during convention.</p>
+                    <p>The 2018 YJA Convention would not be possible without the tireless work of our volunteers. The Adult Volunteer Committee is looking for dedicated individuals to help us host a successful convention. We need volunteers from around 8am on Friday, July 5th, to 2pm on Monday, July 8th. However, generally, volunteers will be working from around 6am to 3am during various shifts on the Saturday and Sunday (July 6th/7th) during convention.</p>
                     <p>Jobs include:</p>
                     <ul>
                         <li><strong>Security</strong>: Help manage crowd flows, baggage check, and traffic during registration; partner with external security team to ensure convention rules are followed (requires long periods of standing/sitting)</li>
@@ -83,22 +83,26 @@
                         <li><strong>General Assistance</strong>: Provide help wherever necessary</li>
                     </ul>
                     <!--<p>If you are over the age of 35 and are interested in helping make this the best convention yet, please fill out this <a href="http://goo.gl/forms/F8dR6Fcf63"><strong>form</strong></a>, and we will get back to within a week to confirm your registration and begin the scheduling process.</p>-->
-                    <p>If you have any questions or concerns, feel free to email <a href="mailto:volunteer.la@yja.org">volunteer.la@yja.org</a>.</p>
-                    <p>Thank you for your interest and help in advance!</p>
-                      
+                    <p>If you are interested, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3WYJ84Imalq1IzU4m93ZWSdYsL7o0HxayGyBTcSkhGXrlLg/viewform">google doc</a> so that we may reach out to you.</p>
+
+                    <p>If you have any questions or concerns, look at this <a href="https://docs.google.com/document/d/1Y-qFh-U6zNLuKwbfSa-hu2vzMD51AYFSHcz6xdk-VCQ/edit?usp=sharing">FAQ sheet</a> or feel free to email <a href="mailto:volunteer.chi@yja.org">volunteer.chi@yja.org</a>.
+                      Thank you so much for your interest and help in advance - we look forward to working with you towards making this Convention an amazing experience for our attendees!</p>
+
+
+
                 </div>
-              
+
             </div>
         </div>
         <div class="divide40"></div>
-                  
+
         <?php include "config/footer.php" ?>
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -107,25 +111,25 @@
         <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--digit countdown plugin-->
         <script src="js/waypoints.min.js"></script>
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--you tube player-->
         <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
- 
-       
+
+
     </body>
 </html>
