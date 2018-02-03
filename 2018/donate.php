@@ -1,11 +1,11 @@
 <?php require_once 'includes/init.php'; ?>
 
- 
+
 
 <?php include "config/config.php" ?>
 
 
- 
+
 
 
 <!DOCTYPE html>
@@ -19,23 +19,23 @@
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-    
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
-        
-        
-        
+
+
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <h4>Donate</h4>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div><!--breadcrumbs-->
@@ -72,14 +72,14 @@
             <div class="row">
                 <div class="col-md-12 margin30">
                     <h2 class="heading">Donate to the Future of Jainism!</h2>
-                    <p>Make a donation to contribute to the 2016 Convention using the form below! A donation of any amount will go a very long way in helping us plan a successful convention.</p>
-                    <p><strong>Interested in sponsoring?</strong> For more information on the benefits of becoming a sponsor and the different sponsorship levels, please visit our <a href="https://convention.yja.org/assets/2016YJASponsorshipPacketFinal.pdf" target="_blank"><strong>2016 Sponsorship Packet</strong></a>. Please e-mail <a href="mailto:fundraising.la@yja.org"><strong>fundraising.la@yja.org</strong></a> if you have any questions.</p>   
+                    <p>Make a donation to contribute to the 2018 Convention using the form below! A donation of any amount will go a very long way in helping us plan a successful convention.</p>
+                    <p><strong>Interested in sponsoring?</strong> For more information on the benefits of becoming a sponsor and the different sponsorship levels, please visit our <a href="https://convention.yja.org/assets/2018YJAFundraisingPacket.pdf" target="_blank"><strong>2018 Sponsorship Packet</strong></a>. Please e-mail <a href="mailto:fundraising.chi@yja.org"><strong>fundraising.chi@yja.org</strong></a> if you have any questions.</p>
                 </div>
             </div>
 
             <div class="row">
                 <div class="col-md-12">
-                    <p><em>Disclaimer: If you would like to donate more than $1,000, please email <a href="mailto:fundraising.la@yja.org">fundraising.la@yja.org</a> instead of donating using the form below.</em></p>
+                    <p><em>Disclaimer: If you would like to donate more than $1,000, please email <a href="mailto:fundraising.chi@yja.org">fundraising.chi@yja.org</a> instead of donating using the form below.</em></p>
                     <div class="required">
                         <p>( <span>*</span> fields are required )</p>
                     </div>
@@ -90,7 +90,7 @@
                    <form name="donate" id="donate" method="post" action="donation_charge.php" >
                     <?php $letter = chr(rand(64, 90)) . chr(rand(64, 90));   ?>
                     <input type="hidden" name="id" value="<?php echo $letter.time(); ?>"
-                       <div class="row">                
+                       <div class="row">
 
                             <div class="col-md-12">
                                 <div class="row control-group">
@@ -101,7 +101,7 @@
                                     </div>
                                 </div>
                             </div>
-           
+
 
                             <div class="col-md-6">
                                 <div class="row control-group">
@@ -124,7 +124,7 @@
                             </div>
 
 
-                            <div class="col-md-6">                                   
+                            <div class="col-md-6">
                                 <div class="row control-group">
                                     <div class="form-group col-xs-12 controls">
                                         <label>City</label>
@@ -134,9 +134,9 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-6">                                   
+                            <div class="col-md-6">
                                 <div class="row control-group">
-                                    <div class="form-group col-xs-12 controls"> 
+                                    <div class="form-group col-xs-12 controls">
                                         <label>State</label>
                                        <input type="text" class="form-control" placeholder="State" id="donate_state" name="donate_state" >
                                         <p class="help-block"></p>
@@ -155,7 +155,7 @@
                             </div>
 
 
-                            <div class="col-md-12">                                   
+                            <div class="col-md-12">
                                 <div class="row control-group">
                                     <div class="form-group col-xs-12 controls">
                                        <label>Message<span>*</span></label>
@@ -165,13 +165,13 @@
                                 </div>
                             </div>
 
-                            <div class="col-md-12">                                   
+                            <div class="col-md-12">
                                 <div class="row control-group">
                                     <div class="form-group col-xs-12 controls">
-                                                           
+
                                <script
                             src="https://checkout.stripe.com/checkout.js" class="stripe-button"
-                            data-key="pk_live_UJiilhAuh1MZ7uVvEWpBFvoM"            
+                            data-key="pk_live_UJiilhAuh1MZ7uVvEWpBFvoM"
                             data-image="https://convention.yja.org/img/stripelogo.png"
                             data-name="yja.org"
                             data-label="Click Here to Donate"
@@ -187,21 +187,21 @@
                     </form>
 
                 </div>
-                 <!--contact form-->                 
+                 <!--contact form-->
             </div>
 
 
         </div>
 
         <div class="divide40"></div>
-                 
+
          <?php include "config/footer.php" ?>
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -210,28 +210,28 @@
         <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--digit countdown plugin-->
         <script src="js/waypoints.min.js"></script>
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--you tube player-->
         <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
 
-        
- 
-   
- 
+
+
+
+
     </body>
 </html>
