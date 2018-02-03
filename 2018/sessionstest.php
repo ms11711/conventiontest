@@ -66,7 +66,7 @@ $SQL = "SELECT * FROM Sessions";
         .popover-title {font-size:13px !important; padding: 0px 14px !important; text-transform: none !important;}
         .col-4-space .project-post {padding: 5px;}
         .fa {
-            color:#ff8824;
+            color:#3A88A1;
         }
         .fa:hover {
             color:#000000;

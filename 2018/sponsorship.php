@@ -132,7 +132,7 @@ require_once 'includes/init.php';
 
                 <div class="col-md-12 margin30">
                     <h3 class="heading">Donate to the Future of Jainism Today!</h3>
-                    <p>If you would like to donate today using our online donation form, please visit our <a href="donate"><strong>donation page</strong></a>.</p>
+                    <p>If you would like to donate today using our online donation form, please visit our <a href="donate.php"><strong>donation page</strong></a>.</p>
                 </div>
             </div>
         </div>

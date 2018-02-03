@@ -71,7 +71,7 @@ $SQL = "SELECT * FROM Sessions WHERE jnfcap > '0'";
         .popover-title {font-size:13px !important; padding: 0px 14px !important; text-transform: none !important;}
         .col-4-space .project-post {padding: 5px;}
         .fa-angellist, .fa-tree, .fa-heartbeat, .fa-briefcase, .fa-book {
-            color:#ff8824;
+            color:#3A88A1;
         }
         .fa-angellist:hover, .fa-tree:hover, .fa-heartbeat:hover, .fa-briefcase:hover, .fa-book:hover {
             color:#000000;

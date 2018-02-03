@@ -88,24 +88,24 @@
                                 <li><a href="essaycontest.php">Essay Contest</a></li>
                                 <li><a href="jab.php">Jain Academic Bowl (JAB)</a></li>
                                 <li><a href="jia.php">Jains in Action (JIA)</a></li>
-                                <li><a href="jnf">Jain Networking Forum (JNF)</a></li>
-                                <li><a href="social">Social Programming</a></li>
+                                <li><a href="jnf.php">Jain Networking Forum (JNF)</a></li>
+                                <li><a href="social.php">Social Programming</a></li>
                             </ul>
                         </li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contribute <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="donate">Donate</a></li>
-                                <li><a href="sponsorship">Sponsorship</a></li>
-                                <li><a href="sponsors">Our Sponsors</a></li>
-                                <li><a href="volunteer">Volunteer</a></li>
+                                <li><a href="donate.php">Donate</a></li>
+                                <li><a href="sponsorship.php">Sponsorship</a></li>
+                                <li><a href="sponsors.php">Our Sponsors</a></li>
+                                <li><a href="volunteer.php">Volunteer</a></li>
                             </ul>
                         </li>
                          <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Help <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu" role="menu">
-                                <li><a href="faq">FAQs</a></li>
-                                <li><a href="contact">Contact</a></li>
+                                <li><a href="faq.php">FAQs</a></li>
+                                <li><a href="contact.php">Contact</a></li>
                             </ul>
                         </li>
                     </ul>

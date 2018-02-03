@@ -257,7 +257,7 @@ $RemainingJNF = 0;
                         <div class="col-md-12 col-sm-12 margin30">
 
                     <h3 class="heading">Transportation</h3>
-                       For questions <a href="contact">Contact Us</a> or visit our <a href="faq">FAQ</a>. We also have <a href="transportation">Transportation</a> page with information about local and international transportation.
+                       For questions <a href="contact.php">Contact Us</a> or visit our <a href="faq.php">FAQ</a>. We also have <a href="transportation">Transportation</a> page with information about local and international transportation.
                         </div>
                     </div>
                  </div>

@@ -184,16 +184,9 @@
                       </div>
                   </div>
               </div>
-              <div class="divide20"></div>
-
-              <div class="text-center soon-copyright">Jainism is a philosophy that believes in self growth. Via its three jewels concept of right vision, right knowledge, and right conduct, it conveys that any individual via clarity, curiosity, and action can progress towards their ultimate goal. This ideal can be applied to not only self improvement, but also social impact. Change complements time. As we shift into the next quarter century of YJA, this convention aims to foster change and growth for the future. The 2016 YJA Convention will focus on providing and manifesting these three jewels to help create progressive change within ourselves and our communities.</div>
-
-              <div class="divide20"></div>
-
-              <div  class="text-center soon-copyright">2016 YJA Convention | Hosted by: <a href="http://yja.org">Young Jains of America</a> | In Partnership with: <a href="http://jaincenter.org">The Jain Center of Southern California</a></div>
           </div>
           <div class="divide30"></div>
-
+          <?php include "config/footer.php" ?>
 
           <!--scripts and plugins -->
           <!--must need plugin jquery-->

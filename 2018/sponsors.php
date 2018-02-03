@@ -76,7 +76,7 @@ require_once 'includes/init.php';
             <div class="row">
                 <div class="col-md-12 margin30">
                     <h3 style="text-align:center;">We are grateful for the generous support of our sponsors and donors for the 2016 YJA Convention.</h3>
-                    <h3 style="text-align:center;">While we are still accepting <a href="sponsorship">sponsorships</a>, the 2016 YJA Convention Board would like to thank the following families, companies, and individuals for their support and partnership.</h3>
+                    <h3 style="text-align:center;">While we are still accepting <a href="sponsorship.php">sponsorships</a>, the 2016 YJA Convention Board would like to thank the following families, companies, and individuals for their support and partnership.</h3>
                 </div>
             </div>
 
