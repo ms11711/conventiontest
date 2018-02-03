@@ -48,9 +48,6 @@
       <body>
 
   <?php include 'config/nav.php' ?>
-  <img src = "img/backgroundYJA.png" height="1000" width="1800"></img>
-
-
           <div class="coming-soon">
               <div class="overlay"></div>
               <div class="container">

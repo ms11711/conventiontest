@@ -92,6 +92,8 @@ require_once 'includes/init.php';
                 <div class="col-md-4">
 
                     <img src="img/five-stars.png" class="location-stars" alt="">
+                    <br/>
+                    <br/>
                     <p>
                        Stylish and sophisticated, this Chicago hotel is located blocks from the Chicago O'Hare Airport. The Westin O'Hare offers travelers a convenient shuttle service to and from the terminals, ensuring a seamless arrival and departure. Feel empowered to explore the greater Chicago area from our Rosemont hotel, which is located within walking distance of the Blue Line "EL" train, plus situated near prominent area attractions like Allstate Arena.
                     </p>
@@ -115,7 +117,8 @@ require_once 'includes/init.php';
                                   Phone: (847) 698-6000</p></li>
                             </ul>
 
-                          <div id="map-canvas"></div>
+                        <!-- Enable maps after we figure out how to make it work -->
+                          <!-- <div id="map-canvas"></div> -->
                           <br>
                         </div>
                         <div>

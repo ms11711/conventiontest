@@ -62,16 +62,20 @@
         <div class="divide60"></div>
         <div class="container">
             <div class="row">
-                <div class="col-md-8 margin30">
+                <div class="col-md-12 margin30">
+                    <center>
                     <h3>
                         Questions? We're here to help!
                     </h3>
 
                     <img src="img/contactpageboardphoto.jpg" class="img-responsive" alt="">
+                </center>
                   </div>
                 </div>
             <div class="row">
-                    Email Us at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.
+                <center>
+                    <h3>Email Us at <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</h3>
+                </center>
             </div>
                     <!--
                     <div class="divide30"></div>

@@ -71,7 +71,7 @@
                 <div class="col-md-12 margin30">
                     <h3 class="heading">Volunteering</h3>
                     <p>The 2018 YJA Convention would not be possible without the tireless work of our volunteers. The Adult Volunteer Committee is looking for dedicated individuals to help us host a successful convention. We need volunteers from around 8am on Friday, July 5th, to 2pm on Monday, July 8th. However, generally, volunteers will be working from around 6am to 3am during various shifts on the Saturday and Sunday (July 6th/7th) during convention.</p>
-                    <p>Jobs include:</p>
+                    <p>Volunteer jobs include:</p>
                     <ul>
                         <li><strong>Security</strong>: Help manage crowd flows, baggage check, and traffic during registration; partner with external security team to ensure convention rules are followed (requires long periods of standing/sitting)</li>
                         <li><strong>Hospitality</strong>: Prepare, distribute and transport food, and assist with other food logistics</li>
@@ -83,9 +83,9 @@
                         <li><strong>General Assistance</strong>: Provide help wherever necessary</li>
                     </ul>
                     <!--<p>If you are over the age of 35 and are interested in helping make this the best convention yet, please fill out this <a href="http://goo.gl/forms/F8dR6Fcf63"><strong>form</strong></a>, and we will get back to within a week to confirm your registration and begin the scheduling process.</p>-->
-                    <p>If you are interested, please fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSc3WYJ84Imalq1IzU4m93ZWSdYsL7o0HxayGyBTcSkhGXrlLg/viewform">google doc</a> so that we may reach out to you.</p>
+                    <h3>If you are interested, please fill out this <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc3WYJ84Imalq1IzU4m93ZWSdYsL7o0HxayGyBTcSkhGXrlLg/viewform">google doc</a> so that we may reach out to you.</h3>
 
-                    <p>If you have any questions or concerns, look at this <a href="https://docs.google.com/document/d/1Y-qFh-U6zNLuKwbfSa-hu2vzMD51AYFSHcz6xdk-VCQ/edit?usp=sharing">FAQ sheet</a> or feel free to email <a href="mailto:volunteer.chi@yja.org">volunteer.chi@yja.org</a>.
+                    <p>If you have any questions or concerns, look at this <a target="_blank" href="https://docs.google.com/document/d/1Y-qFh-U6zNLuKwbfSa-hu2vzMD51AYFSHcz6xdk-VCQ/edit?usp=sharing">FAQ sheet</a> or feel free to email <a href="mailto:volunteer.chi@yja.org">volunteer.chi@yja.org</a>.
                       Thank you so much for your interest and help in advance - we look forward to working with you towards making this Convention an amazing experience for our attendees!</p>
 
 
