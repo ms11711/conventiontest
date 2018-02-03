@@ -1,6 +1,50 @@
 <?php require_once 'includes/init.php'; ?>
 <?php include "config/config.php" ?>
 
+<?php
+
+
+
+
+$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE (user_details.is_board = '0') AND (user_details.gender = 'male') AND (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
+
+$maleCountJNF = User::getData($query);
+$maleRemainingJNF = 100-intval($maleCountJNF[0]);
+
+$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE (user_details.is_board = '0') AND (user_details.gender = 'female') AND (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
+
+$femaleCountJNF = User::getData($query);
+$femaleRemainingJNF = 100-intval($femaleCountJNF[0]);
+
+
+$HSWaitlist = 230;
+$CWaitlist = 200;
+$JNFWaitlist = 220;
+
+
+
+$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'College') AND (user_misc.completed_registration = '1')";
+
+$CountCollege = User::getData($query);
+$RemainingCollege = $CWaitlist-intval($CountCollege[0]);
+
+$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'High School') AND (user_misc.completed_registration = '1')";
+
+$CountHigh = User::getData($query);
+$RemainingHigh = $HSWaitlist-intval($CountHigh[0]);
+
+$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
+
+$CountJNF = User::getData($query);
+$RemainingJNF = $JNFWaitlist-intval($CountJNF[0]);
+
+
+$totalCount = $CountCollege[0] + $CountHigh[0] + $CountJNF[0];
+$remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
+
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -80,7 +124,39 @@ Every two years, YJA brings together hundreds of Jains from across the country t
 The attendees have the opportunity to connect, learn, and share their thoughts with one another on a variety of subjects. Sessions, speakers, and friends will all come together to complete the learning experience through a variety of fun, innovative, and interactive programming. Attendees will engage in a wide range of activities and sessions related to understanding atma (the soul), developing leadership, and creating a better community.
                     </p>
 
-
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 margin40">
+                            <div class="event-digit-box">
+                                <!--<h1 class="counter"><?php echo $totalCount ?></h1>-->
+                                <h1 class="counter">650</h1>
+                                <h4>Registered</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 margin40">
+                            <div class="event-digit-box">
+                                <h1 class="counter">129</h1>
+                                <h4>Sessions</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 margin40">
+                            <div class="event-digit-box">
+                                <h1 class="counter">105</h1>
+                                <h4>Speakers</h4>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 margin40">
+                            <div class="event-digit-box">
+                                <h1 class="counter">0</h1>
+                                <!--<h1 class="counter"><?php echo $remainingCount ?></h1>-->
+                                <h4>Spaces left</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <a href="/register.php" class="btn btn-lg btn-theme-dark">Register Now</a>
+                    </div>
+                    </div>
+                    </div><!--event about end-->
+                    <div class="divide60"></div>
 
                 </div>
                 <div class="col-md-4">
