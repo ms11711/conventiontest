@@ -165,7 +165,7 @@ $remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
                             </div><!--services icon-->
                             <div class="services-box-info">
                                 <h4>Daytime Programming</h4>
-                                <p>Welcome to Daytime Programming at the 2016 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
+                                <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
                                    <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                         </div><!--service box-->
                     </div>
@@ -175,7 +175,7 @@ $remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
                             </div><!--services icon-->
                             <div class="services-box-info">
                                 <h4>Social Events</h4>
-                                <p>Join us in sunny LA at the 2016 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
+                                <p>Join us in sunny LA at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
                                     </p><a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                         </div><!--service box-->
                     </div>
@@ -227,7 +227,7 @@ $remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
             </div>
             <div class="divide20"></div>
 
-            <div class="text-center soon-copyright">Jainism is a philosophy that believes in self growth. Via its three jewels concept of right vision, right knowledge, and right conduct, it conveys that any individual via clarity, curiosity, and action can progress towards their ultimate goal. This ideal can be applied to not only self improvement, but also social impact. Change complements time. As we shift into the next quarter century of YJA, this convention aims to foster change and growth for the future. The 2016 YJA Convention will focus on providing and manifesting these three jewels to help create progressive change within ourselves and our communities.</div>
+            <div class="text-center soon-copyright">Jainism is a philosophy that believes in self growth. Via its three jewels concept of right vision, right knowledge, and right conduct, it conveys that any individual via clarity, curiosity, and action can progress towards their ultimate goal. This ideal can be applied to not only self improvement, but also social impact. Change complements time. As we shift into the next quarter century of YJA, this convention aims to foster change and growth for the future. The 2018 YJA Convention will focus on providing and manifesting these three jewels to help create progressive change within ourselves and our communities.</div>
 
             <div class="divide20"></div>
 

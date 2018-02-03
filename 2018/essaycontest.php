@@ -88,14 +88,14 @@ include "config/config.php"
                     <p>There are all sorts of people who make change in the world around them: from a CEO committed to reducing corporate inequalities, to volunteers handing out material for a noble cause, to a student who asks their friends not to use derogatory words.</p>
                     <p>We believe that everyone has the ability to be an Agent of Change, and we want to know what that means to you!
 
-                    <p><strong>WHO: </strong>All YJA 2016 attendees!</p>
+                    <p><strong>WHO: </strong>All YJA 2018 attendees!</p>
                     <p><strong>WHAT: </strong>Write an essay answering the following prompt: <br><em><strong>What makes you an agent of change and how does Jainism play a role in that?</em></strong>
                     <br>Feel free to mention anecdotes, Jain quotes, current events, or anything else that relates to your positive change.</p>
                     <p><strong>LENGTH: </strong>300-500 words.</p>
                     <p><strong>WHEN: </strong>Email essays to <a href="mailto:essay.la@yja.org">essay.la@yja.org</a> by May 1st at 11:59 PM PST. 
                     <p>Winners of the essay contest will:</p>
                         <ul>
-                            <li>Receive an award at the 2016 YJA Convention</li>
+                            <li>Receive an award at the 2018 YJA Convention</li>
                             <li>Have their essays printed in the Souvenir Book and the YJA Young Minds Newsletter!</li>
                         </ul>
                     <p>We can’t wait to hear what makes you an Agent of Change!</p>

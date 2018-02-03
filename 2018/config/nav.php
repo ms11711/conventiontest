@@ -59,12 +59,12 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="http://convention2016.yja.org"><img src="img/logo.png" alt="YJA 2016"></a>
+                    <a class="navbar-brand" href="/"><img src="img/logo.png" alt="YJA 2018"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
                          <li >
-                            <a href="http://convention2016.yja.org"  >Home  </a>
+                            <a href="/"  >Home  </a>
                         </li>
                         <li class="dropdown ">
                             <a href="#" class="dropdown-toggle " data-toggle="dropdown">Convention <i class="fa fa-angle-down"></i></a>

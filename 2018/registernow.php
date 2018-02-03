@@ -107,12 +107,12 @@ $RemainingJNF = 0;
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="heading">Register for the 2016 YJA Convention in Los Angeles</h3>
+                    <h3 class="heading">Register for the 2018 YJA Convention in Los Angeles</h3>
                     <p>
                         Registration fees begin at $339 for HS and College participants and $375 for JNF participants. Your registration fee <strong>includes accommodations, meals and access to all events</strong> for the 4-day event. Also included is a souvenir bag filled with keepsakes such as Jain literature, a souvenir book, and other items.
                     </p>
 
-                    <p><strong>The convention begins on Friday, July 1, 2016 at 1:00 PM and ends on Monday, July 4, 2016 at 11:00 AM.</strong></p>
+                    <p><strong>The convention begins on Friday, July 1, 2018 at 1:00 PM and ends on Monday, July 4, 2018 at 11:00 AM.</strong></p>
                 </div>
                  
             </div>
@@ -219,11 +219,11 @@ $RemainingJNF = 0;
                         <div class="col-md-6 col-sm-12 margin30">
 
                     <h3 class="heading">Cancellation Policy</h3>
-                        <li>All cancellations regardless of reasons prior to <strong>May 11, 2016</strong> will be entitled to 50% refund of all collected fee amount.
+                        <li>All cancellations regardless of reasons prior to <strong>May 11, 2018</strong> will be entitled to 50% refund of all collected fee amount.
                         </li>
-                        <li>Cancellations after <strong>May 11, 2016</strong> will be entitled to 25% refund of all collected fee amount.
+                        <li>Cancellations after <strong>May 11, 2018</strong> will be entitled to 25% refund of all collected fee amount.
                         </li>
-                        <li>Absolutely no refunds for cancellations shall be given after <strong>June 15, 2016</strong> regardless of reasons.
+                        <li>Absolutely no refunds for cancellations shall be given after <strong>June 15, 2018</strong> regardless of reasons.
                         </li>
 
                         </div>
@@ -237,11 +237,11 @@ $RemainingJNF = 0;
                         <div class="col-md-12 col-sm-12 margin30">
 
                     <h3 class="heading">Cancellation Policy</h3>
-                        <li>All cancellations regardless of reasons prior to <strong>May 11, 2016</strong> will be entitled to 50% refund of all collected fee amount.
+                        <li>All cancellations regardless of reasons prior to <strong>May 11, 2018</strong> will be entitled to 50% refund of all collected fee amount.
                         </li>
-                        <li>Cancellations after <strong>May 11, 2016</strong> will be entitled to 25% refund of all collected fee amount.
+                        <li>Cancellations after <strong>May 11, 2018</strong> will be entitled to 25% refund of all collected fee amount.
                         </li>
-                        <li>Absolutely no refunds for cancellations shall be given after <strong>June 15, 2016</strong> regardless of reasons.
+                        <li>Absolutely no refunds for cancellations shall be given after <strong>June 15, 2018</strong> regardless of reasons.
                         </li>
 
                        

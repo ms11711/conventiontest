@@ -121,7 +121,7 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Daytime Programming</h4>
-                                  <p>Welcome to Daytime Programming at the 2016 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
+                                  <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
                                      <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                           </div><!--service box-->
                       </div>
@@ -131,7 +131,7 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Social Events</h4>
-                                  <p>Join us in sunny LA at the 2016 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
+                                  <p>Join us in sunny LA at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
                                       </p><a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                           </div><!--service box-->
                       </div>

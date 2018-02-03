@@ -235,7 +235,7 @@
                             </div>
                             <div id="collapse2-5" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                    Attendees who have graduated from college (undergrad) should register for JNF. Attendees who are 4th year college students who will be 21 before July 1, 2016 have the option to register for either JNF or the college track.
+                                    Attendees who have graduated from college (undergrad) should register for JNF. Attendees who are 4th year college students who will be 21 before July 1, 2018 have the option to register for either JNF or the college track.
                                 </div>
                             </div>
                         </div>

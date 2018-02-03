@@ -13,7 +13,7 @@ $list_id = "48084538384182498";
 
 
 //Change tyhe table name 
-$SQL = "SELECT * FROM 2016_collegepr";
+$SQL = "SELECT * FROM 2018_collegepr";
 
 $list = User::getAllData($SQL); 
 // var_dump($list);

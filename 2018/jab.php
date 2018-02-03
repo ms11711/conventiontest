@@ -106,7 +106,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="container">
             <div class="row">
                 <div class="col-md-12 margin30">
-                    <h3 class="heading">JAIN ACADEMIC BOWL (JAB) 2016</h3>
+                    <h3 class="heading">JAIN ACADEMIC BOWL (JAB) 2018</h3>
                     <p><strong>The Jain Center of Southern California (JCSC), the Federation of Jain Associations in North America (JAINA) Education Committee, and Young Jains of America (YJA) Daytime Programming Committee invite you to participate in the YJA Jain Academic Bowl (JAB).</strong></p>
                 </div>
             </div>
@@ -288,7 +288,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <h3 class="heading">Preparation</h3>
                     <p>If you are interested in learning some of the content for JAB, a good resource to look at is the <a href="http://www.jainlibrary.org/JAB/01_JAB_2015_Manual_Final.pdf">JAB Manual</a>, which can be found online at <a href="http://jainlibrary.org/">jainelibrary.org</a>. We will later let teams know which chapters in the manual the competition questions will be drawn from.</p>
                     <p><strong>You must be 21 years of age or under to register for JAB. For those of you that are eligible for both <a href="jia.php">Jains In Action (JIA)</a> and JAB, you will only be able to participate in one or the other, but not both.</strong></p>
-                    <p>If you are interested, please submit the following information no later than <strong>April 19th, 2016</strong>:</p>
+                    <p>If you are interested, please submit the following information no later than <strong>April 19th, 2018</strong>:</p>
                 </div>
             </div>
 
@@ -416,8 +416,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 </div><!--/col-->
 
                 <div class="col-md-9">
-                    <p>Your 2016 JAB Administrative Team consists of Anish Doshi (IL), Anjali Doshi (IL), Foram Shah (DC), Salil Ojha (TX), and Siddharth Shah (TX).</p>
-                    <p>Helping them are your 2016 Daytime Programming Committee Co-Leads: Chintav Shah (NJ), Kayuri Shah (DC), and Mahima Shah (NJ).
+                    <p>Your 2018 JAB Administrative Team consists of Anish Doshi (IL), Anjali Doshi (IL), Foram Shah (DC), Salil Ojha (TX), and Siddharth Shah (TX).</p>
+                    <p>Helping them are your 2018 Daytime Programming Committee Co-Leads: Chintav Shah (NJ), Kayuri Shah (DC), and Mahima Shah (NJ).
                 </div>
             </div>
 

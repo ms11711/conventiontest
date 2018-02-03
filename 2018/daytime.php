@@ -104,7 +104,7 @@ $SQL = "SELECT * FROM Sessions WHERE hscap > '0' || ccap > '0'";
         <div class="container">
             <div class="row">
                 <div class="col-md-12 margin30">
-                    <p>Welcome to Daytime Programming at the 2016 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature  engaging and inspirational speakers about Jainism and the importance of its values to youth. In addition, YJA will be bringing back the Jain Academic Bowl (JAB) and introduce JIA: Jains in Action, an interactive program allowing participants to turn their ideas into reality. Get excited for some diverse and powerful sessions about Jain education, interfaith, lifestyle, college/careers, social impact, and much more as we set out to become Agents of Change!</p>
+                    <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature  engaging and inspirational speakers about Jainism and the importance of its values to youth. In addition, YJA will be bringing back the Jain Academic Bowl (JAB) and introduce JIA: Jains in Action, an interactive program allowing participants to turn their ideas into reality. Get excited for some diverse and powerful sessions about Jain education, interfaith, lifestyle, college/careers, social impact, and much more as we set out to become Agents of Change!</p>
                 </div>
             </div>
 
@@ -314,7 +314,7 @@ $SQL = "SELECT * FROM Sessions WHERE hscap > '0' || ccap > '0'";
                 </div><!--/col-->
 
                 <div class="col-md-9">
-                    <p>Your 2016 Daytime Programming Team consists of Chintav Shah (NJ), Kayuri Shah (DC), and Mahima Shah (NJ).</p>
+                    <p>Your 2018 Daytime Programming Team consists of Chintav Shah (NJ), Kayuri Shah (DC), and Mahima Shah (NJ).</p>
                     <p>Working with them are Anjali Doshi (IL) and your convention Co-Chairs Akash Shah (CA) and Puja Savla (CA).</p>
                 </div>
             </div>

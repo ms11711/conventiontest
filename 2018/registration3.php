@@ -484,7 +484,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                        <div class="col-md-12">
                             <div class="row control-group">
                                 <div id="checkRules" class="checkbox col-xs-12 controls">
-                                    <label><input id="agreed_rules" name="agreed_rules" value="1" type="checkbox" required>I agree to follow all <a href="assets/RulesRegulations2016.pdf" target="_blank">rules and regulations</a> for the 2016 YJA Convention.<span>*</span></label>
+                                    <label><input id="agreed_rules" name="agreed_rules" value="1" type="checkbox" required>I agree to follow all <a href="assets/RulesRegulations2016.pdf" target="_blank">rules and regulations</a> for the 2018 YJA Convention.<span>*</span></label>
                                     
                                     <p class="help-block"></p>
                                 </div>

@@ -66,12 +66,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="heading">Social Programming 2016</h3>
+                    <h3 class="heading">Social Programming 2018</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4 margin30">
-                    <p>Join us in sunny LA at the 2016 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our talent competition, Decades of Bollywood, where performers from across the US will showcase their artistic skill and the various eras of Bollywood. After that, you don’t want to miss Straight Outta Gujarat, where traditional Indian dance meets the classic Los Angeles vibe<!--, followed by our West Coast Floats Mixer where you will get time to relax with ice cream and soda-->. Finally, join us at the Maharaja’s Court Formal for a night of majesty and grandeur. We hope to see you in sunny SoCal this Fourth of July weekend!</p>
+                    <p>Join us in sunny LA at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our talent competition, Decades of Bollywood, where performers from across the US will showcase their artistic skill and the various eras of Bollywood. After that, you don’t want to miss Straight Outta Gujarat, where traditional Indian dance meets the classic Los Angeles vibe<!--, followed by our West Coast Floats Mixer where you will get time to relax with ice cream and soda-->. Finally, join us at the Maharaja’s Court Formal for a night of majesty and grandeur. We hope to see you in sunny SoCal this Fourth of July weekend!</p>
                 </div>
                 <div class="col-md-8 margin30">
                     <iframe src="https://player.vimeo.com/video/169760992" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -92,13 +92,13 @@
                 <div class="col-md-4 margin30">
                     <img src="/images/MELA.jpg" width="365" height="230" style="margin-bottom:15px;">
                     <h4 style="text-align:center;">MELA: Meet Every Last Agent</h4>
-                    <p style="text-align:center;">Welcome to training! Your first mission as an Agent of Change is to Meet Every Last Agent (M.E.L.A.). Be prepared for fun, carnival-style games that will prepare you for the weekend ahead with the skills and the new friends to make YJA 2016 a success. Dress is casual, and the event will go on throughout the first day, so you’ll have plenty of time to be ready for action!</p>
+                    <p style="text-align:center;">Welcome to training! Your first mission as an Agent of Change is to Meet Every Last Agent (M.E.L.A.). Be prepared for fun, carnival-style games that will prepare you for the weekend ahead with the skills and the new friends to make YJA 2018 a success. Dress is casual, and the event will go on throughout the first day, so you’ll have plenty of time to be ready for action!</p>
                 </div>
                 <div class="col-md-4 margin30">
                     <img src="/images/Decades.jpg" width="365" height="230" style="margin-bottom:15px;"> 
                     <h4 style="text-align:center;">Talent Competition: Decades of Bollywood</h4>
                     <p style="text-align:center;">Are you ready to watch Sheila Ki Jawani go head to head with Kuch Kuch Hota Hai? If so, prepare yourself for the talent competition that will span India’s riveting Decades of Dance and showcase the best of what Bollywood and your fellow young Jains have to offer!</p>
-                    <p style="text-align:center;">If you are interested in participating in the Talent Competition, please download the <a href="https://convention.yja.org/assets/DecadesofBollywood-RegistrationPacket.pdf"><strong>Registration Packet</strong></a> and email the completed version to <a href="mailto:social.la@yja.org">social.la@yja.org</a> by <strong>April 2, 2016</strong>. 
+                    <p style="text-align:center;">If you are interested in participating in the Talent Competition, please download the <a href="https://convention.yja.org/assets/DecadesofBollywood-RegistrationPacket.pdf"><strong>Registration Packet</strong></a> and email the completed version to <a href="mailto:social.la@yja.org">social.la@yja.org</a> by <strong>April 2, 2018</strong>. 
                 </div>
                 <div class="col-md-4 margin30">   
                     <img src="/images/garba.jpg" width="365" height="230" style="margin-bottom:15px;">   

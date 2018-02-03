@@ -99,9 +99,9 @@ $SQL = "SELECT * FROM Sessions WHERE jnfcap > '0'";
         <div class="container">
             <div class="row">
                 <div class="col-md-12 margin30">
-                    <h3 class="heading">Jain Networking Forum 2016</h3>
+                    <h3 class="heading">Jain Networking Forum 2018</h3>
                     <p>
-                    Jain Networking Forum (JNF) is designed for Jains between the ages of 21-29 and has the goal of fostering professional and social relationships. It provides attendees the opportunity to meet similar minded individuals through interactive daytime sessions, while creating lasting connections with Jains that are successful in a variety of careers. Additionally, our unique social events will allow attendees to relax, mingle, and have an unforgettable experience this July at YJA 2016. If you have any questions, feel free to reach out to us at <a href="mailto:jnf.la@yja.org">jnf.la@yja.org</a>. We’re excited to see you in sunny Los Angeles this July!
+                    Jain Networking Forum (JNF) is designed for Jains between the ages of 21-29 and has the goal of fostering professional and social relationships. It provides attendees the opportunity to meet similar minded individuals through interactive daytime sessions, while creating lasting connections with Jains that are successful in a variety of careers. Additionally, our unique social events will allow attendees to relax, mingle, and have an unforgettable experience this July at YJA 2018. If you have any questions, feel free to reach out to us at <a href="mailto:jnf.la@yja.org">jnf.la@yja.org</a>. We’re excited to see you in sunny Los Angeles this July!
                     </p>                      
                 </div>
                 <div class="col-md-6 margin30">
@@ -336,7 +336,7 @@ $SQL = "SELECT * FROM Sessions WHERE jnfcap > '0'";
                 </div><!--/col-->
 
                 <div class="col-md-9">
-                    <p>Your 2016 JNF Team consists of Neelam Savla (CA) and Shrenik Shah (CA).</p>
+                    <p>Your 2018 JNF Team consists of Neelam Savla (CA) and Shrenik Shah (CA).</p>
                     <p>Working with them are Anand Shah (CA), Bonita Parikh (TX), Karishma Shah (CA), Niket Jain (NY), Rishabh Parekh (CA), Sneha Parikh (CT), and your convention Co-Chairs Akash Shah (CA) and Amit Shah (IL).</p>
                 </div>
             </div>

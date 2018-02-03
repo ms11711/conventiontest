@@ -295,13 +295,13 @@ class Auth
             if ($user->startPasswordReset()) {
 
                 // HARDCODED PROTOCOL
-                $url = 'http://convention2016.yja.org/reset_password.php?token='.$user->password_reset_token;
+                $url = 'http://convention2018.yja.org/reset_password.php?token='.$user->password_reset_token;
                 $hiuser = ucfirst($user->name);
 
-                //Email 
+                //Email
 
                 include './email_template/reset-password.php';
-                 
+
 
         return true;
         }
@@ -353,7 +353,7 @@ EOT;
 
             // get the user social profile details
             $user_profile = (array) Social::getSocialProfile($provider_name);
-            
+
             //if user email is not recieved in user profile (in case of Twitter and Yahoo)
             if ($user_profile !== null && isset($user_profile['identifier']) && $user_profile['email'] == null) {
 

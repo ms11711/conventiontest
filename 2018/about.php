@@ -108,16 +108,16 @@ $remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
         <div class="container">
             <div class="row">
                 <div class="col-md-12 margin30">
-                    <h3 class="heading">About YJA 2016</h3>
+                    <h3 class="heading">About YJA 2018</h3>
                     <p>
 Jainism is one of the oldest religions in the world, and Jains constitute a religious minority in India with 4.2 million adherents. There are small but notable immigrant communities in Belgium, Canada, Hong Kong, Japan, Singapore, and the United States. Being a minority in its home nation of India makes Jainism a minority within a minority in the United States. A chance to participate in a forum targeted at the youth of the religion is very rare and provides a great opportunity to meet other youth of the religion while educating oneself on Jain principles. Education and knowledge has historically proven to be one of the cornerstones of Jainism (Jains have the highest degree of literacy - 94.1 percent - of any religious community in India), and the future of Jainism depends on its youth being well versed and knowledgeable.</p>
 
                     <p>
 
-<!--2016 is the 25th anniversary of YJA. To celebrate, we are bringing YJA to the beautiful city of angels, Los Angeles. YJA 2016, Young Jains: Agents of Change, will inspire youth to embrace Jainism and be the change they want to see in the world. Participants will leave the convention ready to impact the world as active leaders. By interacting with attendees of all ages, youth will learn how Jainism is a source of support at each phase from the teenage social network to a young graduate’s career.</p><p>
+<!--2016 is the 25th anniversary of YJA. To celebrate, we are bringing YJA to the beautiful city of angels, Los Angeles. YJA 2018, Young Jains: Agents of Change, will inspire youth to embrace Jainism and be the change they want to see in the world. Participants will leave the convention ready to impact the world as active leaders. By interacting with attendees of all ages, youth will learn how Jainism is a source of support at each phase from the teenage social network to a young graduate’s career.</p><p>
 -->
 
-Every two years, YJA brings together hundreds of Jains from across the country to learn together and build long-lasting friendships. With thought-provoking speakers, engaging social events and more, we're excited to celebrate YJA's 25th anniversary by bringing the convention experience of a lifetime to sunny Los Angeles, CA. There are a limited number of spaces to attend YJA 2016 - register now to join us as we become Agents of Change!
+Every two years, YJA brings together hundreds of Jains from across the country to learn together and build long-lasting friendships. With thought-provoking speakers, engaging social events and more, we're excited to celebrate YJA's 25th anniversary by bringing the convention experience of a lifetime to sunny Los Angeles, CA. There are a limited number of spaces to attend YJA 2018 - register now to join us as we become Agents of Change!
 </p>
 
 <p>

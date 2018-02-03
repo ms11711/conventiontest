@@ -336,7 +336,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             <div class="row">
                 <div class="col-md-12">
-                    <p>Your 2016 JIA Administrative Team consists of Anish Doshi (IL), Chintav Shah (NJ), Kayuri Shah (DC), Neelam Savla (CA), and Shrenik Shah (CA).</p>
+                    <p>Your 2018 JIA Administrative Team consists of Anish Doshi (IL), Chintav Shah (NJ), Kayuri Shah (DC), Neelam Savla (CA), and Shrenik Shah (CA).</p>
                     <p>Assisting them are your Co-Chairs Akash Shah (CA) and Puja Savla (CA).</p>
                 </div>
             </div>

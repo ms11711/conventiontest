@@ -231,7 +231,7 @@ while (list($key, $value) = each($agegroup_users)) {
                                   <p>Additionally, if you would like to get more involved with YJA, we would love to have you as a <a href="http://yja.org/regions/local-representatives/">Local Representative</a> for your region or even a part of our executive board! Elections for <a href="http://yja.org/about/elections/">executive board</a> will begin a few weeks after the convention.</p>
 
                                   <p>Lastly, we truly hope to see you at the next YJA convention in 2018!</p>
-                                  <p>With #yjalove,<br>Your 2016 YJA Convention Committee</p>
+                                  <p>With #yjalove,<br>Your 2018 YJA Convention Committee</p>
 
                              ';
                         
@@ -300,7 +300,7 @@ while (list($key, $value) = each($agegroup_users)) {
                                  <div class="row">
                                     <div class="col-md-12 margin30">
                                         <!--<p>Welcome to your YJA convention account! Your account information is shown below. Emergency contact, health insurance, and travel information can be edited using the tabs above. If any of your personal information is incorrect, please email <a href="mailto:reghelp@yja.org">reghelp@yja.org</a>.</p>-->
-                                        <h3>Thank you for attending the 2016 YJA Convention!</h3>
+                                        <h3>Thank you for attending the 2018 YJA Convention!</h3>
                                         <p><strong>The souvenir book is now available to view and download by clicking on the Souvenir Book tab!</strong></p>
                                         <p>If you would like to view the convention videos, please <a href="videos">click here</a>.</p> 
                                     </div>

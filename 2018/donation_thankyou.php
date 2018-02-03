@@ -64,9 +64,9 @@
             <div class="row">
                 <div class="col-md-8 margin30">
                     <p>Jai Jinendra,</p>
-                    <p>Thank you for your donation in supporting the 2016 Young Jains of America Convention, to be held in Los Angeles, CA. Your donation will provide attendees with a wonderful experience filled with Jain education, great food, and fun social events. We understand that we are the future of Jainism, and Young Jains of America would like to thank you for contributing your piece in allowing us to hold this convention.</p>
+                    <p>Thank you for your donation in supporting the 2018 Young Jains of America Convention, to be held in Los Angeles, CA. Your donation will provide attendees with a wonderful experience filled with Jain education, great food, and fun social events. We understand that we are the future of Jainism, and Young Jains of America would like to thank you for contributing your piece in allowing us to hold this convention.</p>
                     <p>Sincerely,</p>
-                    <p>Your 2016 YJA Convention Committee</p>
+                    <p>Your 2018 YJA Convention Committee</p>
                 </div>
             </div>
         </div>

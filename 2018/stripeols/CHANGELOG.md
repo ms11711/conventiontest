@@ -1,4 +1,4 @@
-### 3.6.0 2016-01-05
+### 3.6.0 2018-01-05
 
 * Allow configuration of HTTP client timeouts
 

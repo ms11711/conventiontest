@@ -83,9 +83,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 margin30">
-                    <p>July 16, 2016</p>
+                    <p>July 16, 2018</p>
                     <p>Jai Jinendra,</p>
-                    <p>In our final remarks, we would simply like to say thank you. While the four of us may have overseen the planning efforts, it was you who made the 2016 YJA Convention a huge success. You were the ones leading sessions, participating in JAB/JIA, sparking up important conversations, and inspiring each other to become Agents of Change. You have given and received insight on what it takes to make the world a place where all living souls can peacefully coexist.</p>
+                    <p>In our final remarks, we would simply like to say thank you. While the four of us may have overseen the planning efforts, it was you who made the 2018 YJA Convention a huge success. You were the ones leading sessions, participating in JAB/JIA, sparking up important conversations, and inspiring each other to become Agents of Change. You have given and received insight on what it takes to make the world a place where all living souls can peacefully coexist.</p>
                     <p>Moving forward, we would like to emphasize that the convention experience is not over yet. As a matter of fact, this is just the beginning. While you now have more knowledge on using Jainism to impact society, that knowledge can only be worthwhile if you apply it. We urge you to take what you have learned and find ways to better your communities. Now more than ever, we need to step outside of our comfort zones and collaborate with people from all walks of life to create positive change.</p>
                     <p>As you take part in volunteering activities, start your own charities, or even perform random acts of kindness, we want you to realize that you will never be alone. If you ever need someone to share your thoughts or ideas with, please do not hesitate to reach out to us via social media or at <a href="mailto:info@yja.org">info@yja.org</a>. Furthermore, you are always encouraged to stay in touch with your fellow young Jains on our <a href="http://yjaforums.com">YJA Forums</a> webpage. This is a great platform to build upon the conversations you had during daytime sessions at our convention.</p>
                     <p>Finally, we would like to recognize the many people who helped us successfully celebrate our 25th Anniversary. We thank our Board and Subcommittee members for sacrificing so much to organize an amazing convention; our adult volunteers and donors for their selfless service to the Jain community; and the JAINA EC, YJA Board of Trustees, Jain Center of Southern California, and sanghs all over North America for empowering us youth to become Agents of Change.</p>
@@ -93,7 +93,7 @@
                     <p>With #yjalove,</p>
                     <p>
                         <strong>Puja Savla, Akash Shah, Amit Shah, and Sunny Dharod</strong><br>
-                        2016 YJA Convention Committee Co-Chairs<br>
+                        2018 YJA Convention Committee Co-Chairs<br>
                         <a href="mailto:chairs.la@yja.org">chairs.la@yja.org</a>
                     </p>
                 </div>

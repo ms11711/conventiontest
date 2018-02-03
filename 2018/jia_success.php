@@ -66,7 +66,7 @@
                     <p>Jai Jinendra,</p>
                     <p>Thank you for signing up for JIA. We will be in touch!</p>
                     <p>With #yjalove,</p>
-                    <p>Your 2016 YJA Convention Committee</p>
+                    <p>Your 2018 YJA Convention Committee</p>
                 </div>
             </div>
         </div>

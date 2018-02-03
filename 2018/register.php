@@ -123,7 +123,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 <div class="col-md-12 margin30">
                     <h3 class="heading">Register an Account</h3>
                     <p>
-                        Please fill out the information below in order to begin the registration process. This will create a login for you so you can edit account details or make payments. Until you receive an email with a 2016 YJA Convention registration confirmation, you still need to submit information. View your application status on your account page.
+                        Please fill out the information below in order to begin the registration process. This will create a login for you so you can edit account details or make payments. Until you receive an email with a 2018 YJA Convention registration confirmation, you still need to submit information. View your application status on your account page.
                     </p>
                     <div class="divide30"></div>
                     <div class="form-contact">
