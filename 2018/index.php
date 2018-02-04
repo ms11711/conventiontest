@@ -48,12 +48,15 @@
       <body>
 
   <?php include 'config/nav.php' ?>
+  <img src = "img/backgroundYJA.png" height="1000" width="1800"></img>
+
+
           <div class="coming-soon">
               <div class="overlay"></div>
               <div class="container">
                   <div class="row">
                       <div class="col-sm-8 col-sm-offset-2 text-center">
-                          <h2 style="color:white;">July 1<sup>st</sup> 2018 - July 4<sup>th</sup> 2018</h2>
+                          <h2 style="color:white;">July 5<sup>th</sup> 2018 - July 8<sup>th</sup> 2018</h2>
                           <h3 style="color:white;">Chicago, IL </h3>
                           <!--<div class="count-down-1" id="clock"></div>-->
                           <!-- <a href="videos" class="btn btn-theme-bg btn-sm" style="margin-right:20px;"><strong>Watch Convention Videos</strong></a>
@@ -66,6 +69,7 @@
                   </div>
               </div>
           </div><!--coming soon image-->
+        
           <div class="divide60"></div>
           <div class="container about-event-continer">
               <div class="row">
@@ -121,7 +125,7 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Daytime Programming</h4>
-                                  <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
+                                  <p>Welcome to Daytime Programming at the 2016 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
                                      <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                           </div><!--service box-->
                       </div>
@@ -131,7 +135,7 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Social Events</h4>
-                                  <p>Join us in sunny LA at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
+                                  <p>Join us in sunny LA at the 2016 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
                                       </p><a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                           </div><!--service box-->
                       </div>
@@ -181,9 +185,16 @@
                       </div>
                   </div>
               </div>
+              <div class="divide20"></div>
+
+              <div class="text-center soon-copyright">Jainism is a philosophy that believes in self growth. Via its three jewels concept of right vision, right knowledge, and right conduct, it conveys that any individual via clarity, curiosity, and action can progress towards their ultimate goal. This ideal can be applied to not only self improvement, but also social impact. Change complements time. As we shift into the next quarter century of YJA, this convention aims to foster change and growth for the future. The 2016 YJA Convention will focus on providing and manifesting these three jewels to help create progressive change within ourselves and our communities.</div>
+
+              <div class="divide20"></div>
+
+              <div  class="text-center soon-copyright">2016 YJA Convention | Hosted by: <a href="http://yja.org">Young Jains of America</a> | In Partnership with: <a href="http://jaincenter.org">The Jain Center of Southern California</a></div>
           </div>
           <div class="divide30"></div>
-          <?php include "config/footer.php" ?>
+
 
           <!--scripts and plugins -->
           <!--must need plugin jquery-->
