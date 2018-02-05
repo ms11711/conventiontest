@@ -38,7 +38,7 @@ $CountJNF = User::getData($query);
 /* $RemainingJNF = $JNFWaitlist-intval($CountJNF[0]);  */
 $RemainingJNF = 0;
 
- 
+
 ?>
 
 <!DOCTYPE html>
@@ -52,23 +52,23 @@ $RemainingJNF = 0;
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
 
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-    
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
-        
-        
-        
+
+
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -96,30 +96,30 @@ $RemainingJNF = 0;
                     <div class="col-sm-6">
                         <h4>Registration Information</h4>
                     </div>
-                     
+
                 </div>
             </div>
         </div><!--breadcrumbs-->
         <div class="divide60"></div>
 
 
- 
+
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h3 class="heading">Register for the 2018 YJA Convention in Los Angeles</h3>
+                    <h3 class="heading">Register for the 2018 YJA Convention in Chicago, Illinois</h3>
                     <p>
-                        Registration fees begin at $339 for HS and College participants and $375 for JNF participants. Your registration fee <strong>includes accommodations, meals and access to all events</strong> for the 4-day event. Also included is a souvenir bag filled with keepsakes such as Jain literature, a souvenir book, and other items.
+                        Registration fees begin at $309 for HS and College participants and $345 for JNF participants. Your registration fee <strong>includes accommodations, meals and access to all events</strong> for the 4-day event. Also included is a souvenir bag filled with keepsakes such as Jain literature, an online souvenir book, and other items.
                     </p>
 
-                    <p><strong>The convention begins on Friday, July 1, 2018 at 1:00 PM and ends on Monday, July 4, 2018 at 11:00 AM.</strong></p>
+                    <p><strong>The convention begins on Friday, July 5th, 2018 at 1:00 PM and ends on Monday, July 8th, 2018 at 11:00 AM.</strong></p>
                 </div>
-                 
+
             </div>
 
             <div class="row">
                 <div class="col-md-12">
-                    <div role="alert" class="alert alert-danger"><center><strong>ALL age groups</strong> are officially <strong>SOLD OUT</strong>.<br><br> If you were unable to get a spot, we hope to see you at the next YJA convention and other regional YJA events! <!--If you would like to be added to the <strong>waitlist</strong>, please register using the button below and complete Steps 1 and 2 of the registration process. If a spot opens up for your age group, we will contact you via email.--></center></div>
+                <!--    <div role="alert" class="alert alert-danger"><center><strong>ALL age groups</strong> are officially <strong>SOLD OUT</strong>.<br><br> If you were unable to get a spot, we hope to see you at the next YJA convention and other regional YJA events! If you would like to be added to the <strong>waitlist</strong>, please register using the button below and complete Steps 1 and 2 of the registration process. If a spot opens up for your age group, we will contact you via email.</center></div> -->
                 </div>
 
                 <!--<div class="col-md-2 col-md-offset-5 margin30"><a href="register" class="btn btn-theme-bg btn-lg">Enter Waitlist</a></div> -->
@@ -138,7 +138,7 @@ $RemainingJNF = 0;
                                 </div>
                             </div>
                         </div>
-                    
+
                 </div>
 
                 <div class="col-md-4 col-sm-12 margin30">
@@ -149,7 +149,7 @@ $RemainingJNF = 0;
                                 </div>
                             </div>
                         </div>
-                   
+
                 </div>
 
                 <div class="col-md-4 col-sm-12 margin30">
@@ -160,14 +160,14 @@ $RemainingJNF = 0;
                                         </div>
                                     </div>
                                 </div>
-                    
+
                 </div>
 
 
         <table class="table table-condensed">
                         <thead>
                             <tr>
-                                <th>Dates</th> 
+                                <th>Dates</th>
                                 <th>Registration Phase</th>
                                 <tH>High School/ College</th>
                                 <th>JNF</th>
@@ -175,32 +175,32 @@ $RemainingJNF = 0;
                         </thead>
                         <tbody>
                             <tr>
-                                <th scope="row">January 25<sup>th</sup> - February 21<sup>st</sup></th> 
+                                <th scope="row">February TBD!!!<sup>th</sup> - February TBD!!!<sup>st</sup></th>
                                 <td>Phase 1</td>
-                                <td>$339</td>
-                                <td>$375</td>
+                                <td>$309</td>
+                                <td>$345</td>
                             </tr>
                             <tr>
-                                <th scope="row">February 22<sup>nd</sup> - April 30<sup>th</sup></th> 
+                                <th scope="row">February TBD!!!<sup>nd</sup> - April TBD!!!<sup>th</sup></th>
                                 <td>Phase 2</td>
-                                <td>$375</td>
-                                <td>$410</td>
+                                <td>$349</td>
+                                <td>$389</td>
                             </tr>
                             <tr>
-                                <th scope="row">Unsubsidized</th> 
+                                <th scope="row">Unsubsidized</th>
                                 <td></td>
-                                <td>$425</td>
-                                <td>$475</td>
+                                <td>$399</td>
+                                <td>$449</td>
                             </tr>
                         </tbody>
                     </table>
 
 
-                
-  
+
+
 
 </div>
-                 
+
 
                  <div class="row">
 
@@ -209,7 +209,7 @@ $RemainingJNF = 0;
 
                     <h3 class="heading">Unsubsidized Pricing</h3>
 
-                            To provide each attendee with hotel accommodations, meals, and the opportunity to attend sessions and social events, the actual total cost per person is well over the registration cost. 
+                            To provide each attendee with hotel accommodations, meals, and the opportunity to attend sessions and social events, the actual total cost per person is well over the registration cost.
 
                             YJA works very hard in fundraising during the year to help subsidize each attendee's cost of attendance.
 
@@ -244,7 +244,7 @@ $RemainingJNF = 0;
                         <li>Absolutely no refunds for cancellations shall be given after <strong>June 15, 2018</strong> regardless of reasons.
                         </li>
 
-                       
+
 
                         </div>
                     </div>
@@ -257,32 +257,32 @@ $RemainingJNF = 0;
                         <div class="col-md-12 col-sm-12 margin30">
 
                     <h3 class="heading">Transportation</h3>
-                       For questions <a href="contact.php">Contact Us</a> or visit our <a href="faq.php">FAQ</a>. We also have <a href="transportation">Transportation</a> page with information about local and international transportation.
+                       For questions <a href="contact.php">Contact Us</a> or visit our <a href="faq.php">FAQ</a>. We also have <a href="transportation.php">Transportation</a> page with information about local and international transportation.
                         </div>
                     </div>
                  </div>
- 
- 
+
+
 
 
 
             </div><!--pricing tables 2 simple row end-->
 
   <p style="text-align:center;">
-                        <a href="assets/RulesRegulations2016.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Rules and Regulations</a>
+                        <a href="assets/RulesRegulations2018.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Rules and Regulations</a>
                         <a href="assets/LiabilityWaiver2016.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Waiver of Liability</a>
                     </p>
 
         </div>
         <div class="divide40"></div>
-                  
+
         <?php include "config/footer.php" ?>
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -291,26 +291,26 @@ $RemainingJNF = 0;
         <script src="js/jquery.flexslider-min.js" type="text/javascript"></script>
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--digit countdown plugin-->
         <script src="js/waypoints.min.js"></script>
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--you tube player-->
         <script src="js/jquery.mb.YTPlayer.min.js" type="text/javascript"></script>
-        
-        
+
+
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
 
-        
-        
+
+
     </body>
 </html>

@@ -8,12 +8,12 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        
+
         <title><?php echo $config_title; ?> | Meet the Board</title>
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
 
         <!--sweet alerts-->
         <link href="css/sweetalert.css" rel="stylesheet">
@@ -23,17 +23,17 @@
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
         <link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-       
+
         <!-- font awesome for icons -->
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- flex slider css -->
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
 
 
-        
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -60,7 +60,7 @@
                     <div class="col-sm-6">
                         <h4>Meet the 2018 YJA Convention Board</h4>
                     </div>
-                   
+
                 </div>
             </div>
         </div><!--breadcrumbs-->
@@ -70,11 +70,11 @@
             <div class="row">
                 <div class="col-sm-3 margin40">
                     <ul class="list-unstyled side-nav">
-                        <?php 
+                        <?php
 
                             // Committee array, place committees in order you want appeared on website.
-                            $committee = array("Co-Chairs","Adult Volunteer","Daytime", "Fundraising", "Hospitality", "Jain Networking Forum", "Public Relations", "Registration", "Security", "Site", "Social", "Souvenirs");                       
-                            print_side_nav($committee); 
+                            $committee = array("Co-Chairs","Adult Volunteer","Daytime", "Fundraising", "Hospitality", "Jain Networking Forum", "Public Relations", "Registration", "Security", "Site", "Social", "Souvenirs");
+                            print_side_nav($committee);
 
                         ?>
                     </ul>
@@ -85,17 +85,17 @@
                     <h3 class="heading">YJA Convention Board</h3>
                     <p>
                         Introducing the 2018 YJA Convention Board members. This year we have an extremely talented group of individuals that have gone above and beyond in their efforts to organize the best YJA convention yet!
-                    </p> 
+                    </p>
                 </div>
                 <div class="col-md-8">
-                    <img src="images/board3.jpg" class="img-responsive" alt="">
+                    <img src="images/board2018.jpg" class="img-responsive" alt="">
                 </div>
             </div><!--about intro-->
 
 
             <!-- <div class="divide60"></div> -->
-            
-            <?php 
+
+            <?php
 
             // Below is a loop that runs through the database in order to output all the board data
 
@@ -105,9 +105,9 @@
             $result = mysql_query($SQL);
 
             $board_members = array();
-          
+
             while ($row = mysql_fetch_object($result)) {
-                array_push($board_members, $row); 
+                array_push($board_members, $row);
             }
 
             // Increment to each item in committee array
@@ -115,18 +115,18 @@
             for($i= 0; $i<sizeof($committee);$i++){
 
                 // Echo title for each committee
-                print_title($committee[$i]);                
+                print_title($committee[$i]);
 
                 echo '<div class="row">';
 
                 // Check each member to see if position is part of the current committee element
 
                 for($j=0; $j<sizeof($board_members); $j++){
-                
+
                     // If the person committee matches the current committee, echo out their info
 
                     if($board_members[$j]->position == $committee[$i]){
-                        print_committee_member($board_members[$j]);       
+                        print_committee_member($board_members[$j]);
                     }
                 }
 
@@ -145,7 +145,7 @@
                         <h4>'.$board_members->name.'</h4>
                         <span>'.$board_members->position.'</span>
                         <p>
-                             
+
                         </p>
                            <ul class="list-inline">
 
@@ -169,7 +169,7 @@
                                 </a>
                             </li>';
                     }
-                          
+
                     if($board_members->twitter){
                         echo ' <li>
                                 <a href="https://twitter.com/'.$board_members->twitter.'" class="social-icon-sm si-border si-twitter">
@@ -204,7 +204,7 @@
 
                     </script>       ';
             }
- 
+
             function print_side_nav($committee){
 
                 for($i=0; $i<sizeof($committee); $i++){
@@ -213,7 +213,7 @@
 
             }
 
- 
+
 
                 ?>
 
@@ -224,14 +224,14 @@
             </div>
         </div><!--side navigation container-->
         <div class="divide60"></div>
-        
+
         <?php include 'config/footer.php' ?>
 
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -247,7 +247,7 @@
         <!--digit countdown plugin-->
         <script src="js/jquery.counterup.min.js" type="text/javascript"></script>
         <!--on scroll animation-->
-        <script src="js/wow.min.js" type="text/javascript"></script> 
+        <script src="js/wow.min.js" type="text/javascript"></script>
         <!--owl carousel slider-->
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
@@ -263,4 +263,3 @@
 
     </body>
 </html>
-

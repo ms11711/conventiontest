@@ -59,7 +59,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="img/yjalogonoslogan.png" alt="YJA 2018"></a>
+                    <a class="navbar-brand" href="/"><img src="img/yjalogonoslogan.png" alt="YJA 2018" style="height: 59px;  width: 100px;"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -71,7 +71,7 @@
                             <ul class="dropdown-menu multi-level" role="menu">
                                 <li><a href="about.php">About</a></li>
                                 <li><a href="board.php">Board</a></li>
-                                <li><a href="location.php">Location</a></li>
+                                <li><a href="transportation.php">Location</a></li>
                                 <li><a href="registernow.php">Registration</a></li>
                               <!--  <li><a href="transportation.php">Transportation</a></li>
                                 <li><a href="assets/DressCode2016.pdf" target="_blank">Convention Dress Code</a></li>
