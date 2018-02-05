@@ -1,49 +1,7 @@
 <?php require_once 'includes/init.php'; ?>
 <?php include "config/config.php" ?>
 
-<?php
 
-
-
-
-$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE (user_details.is_board = '0') AND (user_details.gender = 'male') AND (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
-
-$maleCountJNF = User::getData($query);
-$maleRemainingJNF = 100-intval($maleCountJNF[0]);
-
-$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE (user_details.is_board = '0') AND (user_details.gender = 'female') AND (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
-
-$femaleCountJNF = User::getData($query);
-$femaleRemainingJNF = 100-intval($femaleCountJNF[0]);
-
-
-$HSWaitlist = 230;
-$CWaitlist = 200;
-$JNFWaitlist = 220;
-
-
-
-$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'College') AND (user_misc.completed_registration = '1')";
-
-$CountCollege = User::getData($query);
-$RemainingCollege = $CWaitlist-intval($CountCollege[0]);
-
-$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'High School') AND (user_misc.completed_registration = '1')";
-
-$CountHigh = User::getData($query);
-$RemainingHigh = $HSWaitlist-intval($CountHigh[0]);
-
-$query = "SELECT COUNT(*) from user_details INNER JOIN user_misc ON user_details.id = user_misc.id WHERE /*(user_details.is_board = '0') AND*/ (user_details.agegroup = 'JNF') AND (user_misc.completed_registration = '1')";
-
-$CountJNF = User::getData($query);
-$RemainingJNF = $JNFWaitlist-intval($CountJNF[0]);
-
-
-$totalCount = $CountCollege[0] + $CountHigh[0] + $CountJNF[0];
-$remainingCount = $RemainingCollege + $RemainingHigh + $RemainingJNF;
-
-
-?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -124,62 +82,7 @@ Every two years, YJA brings together hundreds of Jains from across the country t
 The attendees have the opportunity to connect, learn, and share their thoughts with one another on a variety of subjects. Sessions, speakers, and friends will all come together to complete the learning experience through a variety of fun, innovative, and interactive programming. Attendees will engage in a wide range of activities and sessions related to understanding atma (the soul), developing leadership, and creating a better community.
                     </p>
 
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6 margin40">
-                            <div class="event-digit-box">
-                                <!--<h1 class="counter"><?php echo $totalCount ?></h1>-->
-                                <h1 class="counter">650</h1>
-                                <h4>Registered</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 margin40">
-                            <div class="event-digit-box">
-                                <h1 class="counter">129</h1>
-                                <h4>Sessions</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 margin40">
-                            <div class="event-digit-box">
-                                <h1 class="counter">105</h1>
-                                <h4>Speakers</h4>
-                            </div>
-                        </div>
-                        <div class="col-md-3 col-sm-6 margin40">
-                            <div class="event-digit-box">
-                                <h1 class="counter">0</h1>
-                                <!--<h1 class="counter"><?php echo $remainingCount ?></h1>-->
-                                <h4>Spaces left</h4>
-                            </div>
-                        </div>
-                    </div>
-                    <a href="/register.php" class="btn btn-lg btn-theme-dark">Register Now</a>
-                    </div>
-                    </div>
-                    </div><!--event about end-->
-                    <div class="divide60"></div>
 
-                </div>
-                <div class="col-md-4">
-                    <h3 class="heading"><a href="daytime">Daytime Programming</a></h3>
-                    <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 750 young Jains from around the world! Highlighting the Daytime sessions will be engaging, inspirational speakers who keep Jainism and its values alive in the hearts and minds of the youth. In addition, YJA will be bringing back the Jain Academic Bowl (JAB) and JIA: Jains in Action, an interactive program allowing participants to turn their ideas into reality. Get excited for some diverse and powerful sessions on Jain education, interfaith, lifestyle, college/careers, debates, games, and much more as we set out to reconnect with our roots!</p>
-
-                        <a href="/daytime" class="btn btn-theme-bg btn-lg">Read More</a>
-                </div>
-                <div class="col-md-4">
-                    <h3 class="heading"><a href="social">Social Events</a></h3>
-                    <p>Join us in Chicago, IL at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our talent competition, Decades of Bollywood through the Ages, where performers from across the US will showcase their artistic skill and the various eras of Bollywood. After that, you don’t want to miss Straight Outta Gujarat, where traditional Indian dance meets the classic Los Angeles vibe, followed by our West Coast Floats Mixer where you will get time to relax with ice cream and soda. Finally, join us at the Maharaja’s Court Formal for a night of majesty and grandeur. We hope to see you in sunny SoCal this Fourth of July weekend!</p>
-
-                        <a href="/social" class="btn btn-theme-bg btn-lg">Read More</a>
-
-                </div>
-                <div class="col-md-4">
-                    <h3 class="heading"><a href="jnf">Jain Networking Forum (JNF)</a></h3>
-                    <p>Jain Networking Forum (JNF) 2018 is designed for Jains between the ages of 21-29 with the goal of fostering professional and relationship development. JNF 2018 will provide attendees the opportunity to meet like minded individuals through interactive daytime sessions, while creating lasting connections with Jains spanning a variety of careers and backgrounds. Additionally, our unique social events will allow attendees to relax, mingle, and have an unforgettable experience this July at YJA 2018.</p>
-
-                        <a href="/jnf" class="btn btn-theme-bg btn-lg">Read More</a>
-                </div>
-            </div>
-        </div>
         <div class="divide40"></div>
 
         <?php include "config/footer.php" ?>

@@ -59,7 +59,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/"><img src="img/logo.png" alt="YJA 2018"></a>
+                    <a class="navbar-brand" href="/"><img src="img/yjalogonoslogan.png" alt="YJA 2018"></a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -73,15 +73,15 @@
                                 <li><a href="board.php">Board</a></li>
                                 <li><a href="location.php">Location</a></li>
                                 <li><a href="registernow.php">Registration</a></li>
-                                <li><a href="transportation.php">Transportation</a></li>
+                              <!--  <li><a href="transportation.php">Transportation</a></li>
                                 <li><a href="assets/DressCode2016.pdf" target="_blank">Convention Dress Code</a></li>
                                 <li><a href="assets/ConventionSchedule2016.pdf" target="_blank">Convention Schedule</a></li>
                                 <li><a href="media.php">Convention Social Media Feed</a></li>
                                 <li><a href="souvenirbook.php">Convention Souvenir Book</a></li>
-                                <li><a href="videos.php">Convention Videos</a></li>
+                                <li><a href="videos.php">Convention Videos</a></li> -->
                             </ul>
                         </li>
-                        <li class="dropdown">
+                    <!--    <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Events <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="daytime.php">Daytime Programming</a></li>
@@ -91,13 +91,13 @@
                                 <li><a href="jnf.php">Jain Networking Forum (JNF)</a></li>
                                 <li><a href="social.php">Social Programming</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contribute <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu" role="menu">
                                 <li><a href="donate.php">Donate</a></li>
                                 <li><a href="sponsorship.php">Sponsorship</a></li>
-                                <li><a href="sponsors.php">Our Sponsors</a></li>
+                            <!--    <li><a href="sponsors.php">Our Sponsors</a></li> -->
                                 <li><a href="volunteer.php">Volunteer</a></li>
                             </ul>
                         </li>

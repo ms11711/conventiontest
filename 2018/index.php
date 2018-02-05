@@ -123,8 +123,9 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Daytime Programming</h4>
-                                  <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime sessions will feature ... </p>
-                                     <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
+                                  <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime session details will be coming soon! </p>
+                      <!--               <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a> -->
+                              </div>
                           </div><!--service box-->
                       </div>
                        <div class="col-sm-4 margin30">
@@ -133,8 +134,9 @@
                               </div><!--services icon-->
                               <div class="services-box-info">
                                   <h4>Social Events</h4>
-                                  <p>Join us in sunny LA at the 2018 YJA convention for a weekend of social events you won’t forget! As Agents of Change, your first mission is to Meet Every Last Agent (M.E.L.A) in our carnival-style training modules that will prepare you for the weekend ahead. Then join us for our ...
-                                      </p><a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
+                                  <p>Join us at the Westin O'hare for the 2018 YJA convention to experience a weekend of social events you won’t forget! Social Programming will be coming soon. </p>
+                <!--                      <a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div> -->
+                              </div>
                           </div><!--service box-->
                       </div>
                       <div class="col-sm-4 ">
@@ -144,7 +146,9 @@
                               <div class="services-box-info">
                                   <h4>Jain Networking Forum</h4>
                                   <p>
-                                     Jain Networking Forum (JNF) is designed for Jains between the ages of 21-29 and has the goal of fostering professional and social relationships. It provides attendees the opportunity ... </p><a href="jnf" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
+                                     Jain Networking Forum (JNF) is designed for Jains between the ages of 21-29 and has the goal of fostering professional and social relationships. JNF details will be coming soon! </p>
+                        <!--             <a href="jnf" class="btn btn-theme-dark btn-sm">Continue Reading</a></div> -->
+                              </div>
                           </div><!--service box-->
                       </div>
                   </div>

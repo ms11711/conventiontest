@@ -67,8 +67,8 @@
                     <h3>
                         Questions? We're here to help!
                     </h3>
-
-                    <img src="img/contactpageboardphoto.jpg" class="img-responsive" alt="">
+                    <br>
+                    <img src="img/contactpageboardphoto.jpg" class="img-responsive" alt="" style="width: 900px;">
                 </center>
                   </div>
                 </div>

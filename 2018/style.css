@@ -1,4 +1,4 @@
-/* 
+/*
     Document   : assan
     Author     : Design_mylife
     Description:assan multi-page for Multipurpose use
@@ -186,7 +186,7 @@ h6 {
 
 /*parahraphs*/
 p {
-  color: #2e2d2d; /* was #555 */ 
+  color: #2e2d2d; /* was #555 */
   line-height: 24px;
   margin: 0 0 20px;
 }
@@ -196,7 +196,7 @@ p.sub-text {
   font-size: 16px;
   line-height: 29px;
   font-weight: 300;
-  color: #2e2d2d; /* was #555 */ 
+  color: #2e2d2d; /* was #555 */
 }
 
 p.lead {
@@ -537,13 +537,14 @@ pre:after, pre:before {
 
 .navbar-brand {
   font-weight: 700;
-  padding-top: 0px !important;
+  padding-top: 10px !important;
   color: #000 !important;
   font-size: 30px;
   line-height: 20px;
   font-style: normal;
   text-transform: uppercase;
 }
+
 
 .navbar-default .navbar-nav > li > a {
   color: #687074;
