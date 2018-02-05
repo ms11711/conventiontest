@@ -54,7 +54,8 @@
               <div class="container">
                   <div class="row">
                       <div class="col-sm-8 col-sm-offset-2 text-center">
-                          <h2 style="color:white;">July 5<sup>th</sup> 2018 - July 8th<sup>th</sup> 2018</h2>
+                          <h2 style="color:white;">YJA 2018 Convention</h2>
+                          <h2 style="color:white;">July 5<sup>th</sup> - July 8th<sup>th</sup></h2>
                           <h3 style="color:white;">Chicago, IL </h3>
                           <!--<div class="count-down-1" id="clock"></div>-->
                           <!-- <a href="videos" class="btn btn-theme-bg btn-sm" style="margin-right:20px;"><strong>Watch Convention Videos</strong></a>
