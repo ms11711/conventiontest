@@ -71,7 +71,7 @@
                             <ul class="dropdown-menu multi-level" role="menu">
                                 <li><a href="about.php">About</a></li>
                                 <li><a href="board.php">Board</a></li>
-                                <li><a href="transportation.php">Location</a></li>
+                                <li><a href="transportation.php">Transportation</a></li>
                                 <li><a href="registernow.php">Registration</a></li>
                               <!--  <li><a href="transportation.php">Transportation</a></li>
                                 <li><a href="assets/DressCode2016.pdf" target="_blank">Convention Dress Code</a></li>
