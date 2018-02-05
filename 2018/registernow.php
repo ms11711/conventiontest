@@ -270,7 +270,7 @@ $RemainingJNF = 0;
 
   <p style="text-align:center;">
                         <a href="assets/RulesRegulations2018.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Rules and Regulations</a>
-                        <a href="assets/LiabilityWaiver2016.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Waiver of Liability</a>
+                        <a href="assets/LiabilityWaiver2018.pdf" target="_blank" class="btn btn-theme-bg btn-sm">Waiver of Liability</a>
                     </p>
 
         </div>
