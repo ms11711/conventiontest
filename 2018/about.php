@@ -75,11 +75,12 @@ Jainism is one of the oldest religions in the world, and Jains constitute a reli
 <!--2016 is the 25th anniversary of YJA. To celebrate, we are bringing YJA to the beautiful city of angels, Los Angeles. YJA 2018, Young Jains: Agents of Change, will inspire youth to embrace Jainism and be the change they want to see in the world. Participants will leave the convention ready to impact the world as active leaders. By interacting with attendees of all ages, youth will learn how Jainism is a source of support at each phase from the teenage social network to a young graduate’s career.</p><p>
 -->
 
-Every two years, YJA brings together hundreds of Jains from across the country to learn together and build long-lasting friendships. With thought-provoking speakers, engaging social events and more, we're excited to celebrate YJA's 25th anniversary by bringing the convention experience of a lifetime to sunny Los Angeles, CA. There are a limited number of spaces to attend YJA 2018 - register now to join us as we become Agents of Change!
+Every two years, YJA brings together hundreds of Jains from across the country to learn together and build long-lasting friendships. With thought-provoking speakers, engaging social events and more, we're excited to return to the birthplace of the very first YJA Convention: Chicago, Illinois!
+
 </p>
 
 <p>
-The attendees have the opportunity to connect, learn, and share their thoughts with one another on a variety of subjects. Sessions, speakers, and friends will all come together to complete the learning experience through a variety of fun, innovative, and interactive programming. Attendees will engage in a wide range of activities and sessions related to understanding atma (the soul), developing leadership, and creating a better community.
+As an attendee, you will have the opportunity to connect, learn, and share your thoughts with peers and dignitaries on a wide range of subjects. Through a variety of fun, innovative, and interactive programming, we will help you and your fellow attendees from across the country come together on this journey towards finding your best selves. Explore life-changing topics such as understanding atma (the soul), developing leadership, and creating better communities around you. There are a limited number of spaces to attend YJA 2018 - register now to join us for a once in a lifetime convention experience as we Reconnect with Our Roots!
                     </p>
 
 
