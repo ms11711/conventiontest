@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     Util::redirect($url);
   }
 }
- 
+
 
 ?>
 
@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <meta name="description" <?php echo 'content="'.$config_description.'"'; ?> >
         <meta name="keywords" <?php echo 'content="'.$config_keywords.'"'; ?> >
 
-        <?php echo $config_favicon; ?>   
+        <?php echo $config_favicon; ?>
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- custom css (blue color by default) -->
@@ -67,10 +67,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <link href="css/flexslider.css" rel="stylesheet" type="text/css" media="screen">
         <!-- animated css  -->
         <link href="css/animate.css" rel="stylesheet" type="text/css" media="screen">
-        
 
 
-        
+
+
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
@@ -98,7 +98,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                     <div class="col-sm-6">
                         <h4>Register Step 1/3</h4>
                     </div>
-                     
+
                 </div>
             </div>
         </div><!--breadcrumbs-->
@@ -168,7 +168,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 </div>
 
 
-                            </div>                
+                            </div>
 
                             <div class="row">
 
@@ -193,12 +193,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                             <input type="text" class="form-control" placeholder="mm" maxlength="2" id="dobmonth" name="dobmonth" required >
                                             <p class="help-block"></p>
                                         </div>
-                                        <div class="form-group col-xs-4 controls"> 
+                                        <div class="form-group col-xs-4 controls">
                                             <input type="text" class="form-control" placeholder="dd" maxlength="2" id="dobday" name="dobday" required >
                                             <p class="help-block"></p>
                                         </div>
 
-                                           <div class="form-group col-xs-4 controls"> 
+                                           <div class="form-group col-xs-4 controls">
                                             <input type="text" class="form-control" placeholder="yyyy" maxlength="4" id="dobyear" name="dobyear" required >
                                             <p class="help-block"></p>
                                         </div>
@@ -218,7 +218,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                                 </div>
 
- 
+
 
                             </div>
 
@@ -238,7 +238,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                             </div>
                             <br>
-                             <div class="row">                               
+                             <div class="row">
 
                                 <div class="col-md-12">
                                     <div class="row control-group">
@@ -260,9 +260,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
                                 </div>
 
-                            
 
-                                <div class="col-md-3">                                   
+
+                                <div class="col-md-3">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
                                             <label>City<span>*</span></label>
@@ -272,9 +272,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
                                 </div>
 
-                                <div class="col-md-3" id="state_dropdown">                                   
+                                <div class="col-md-3" id="state_dropdown">
                                     <div class="row control-group">
-                                        <div class="form-group col-xs-12 controls"> 
+                                        <div class="form-group col-xs-12 controls">
                                             <label>State<span>*</span></label>
                                             <select class="form-control" name="state" id="state_dropsel" required>
                                                 <option value="">Select State</option>
@@ -329,16 +329,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                 <option value="WV">West Virginia</option>
                                                 <option value="WI">Wisconsin</option>
                                                 <option value="WY">Wyoming</option>
-                                            </select>               
-                
+                                            </select>
+
                                             <p class="help-block"></p>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="col-md-3" id="state_input" style="display:none;">                                   
+                                <div class="col-md-3" id="state_input" style="display:none;">
                                     <div class="row control-group">
-                                        <div class="form-group col-xs-12 controls"> 
+                                        <div class="form-group col-xs-12 controls">
                                             <label>State<span>*</span></label>
                                             <input type="text" class="form-control" placeholder="State" id="state_dropin" >
                                             <p class="help-block"></p>
@@ -346,9 +346,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
                                 </div>
 
-                                <div class="col-md-3" >                                   
+                                <div class="col-md-3" >
                                     <div class="row control-group">
-                                        <div class="form-group col-xs-12 controls"> 
+                                        <div class="form-group col-xs-12 controls">
                                             <label>Zip Code<span>*</span></label>
                                             <input type="text" class="form-control" maxlength="10" placeholder="Zip Code" id="zipcode" name="zipcode" required>
                                             <p class="help-block"></p>
@@ -356,11 +356,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
                                 </div>
 
-                                <div class="col-md-3">                                   
+                                <div class="col-md-3">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
                                             <label>Country<span>*</span></label>
-                                            <select class="form-control" id="country" name="country">       
+                                            <select class="form-control" id="country" name="country">
                                                 <option value="USA">United States</option>
                                                 <option value="AFG">Afghanistan</option>
                                                 <option value="ALA">Åland Islands</option>
@@ -622,7 +622,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <div class="col-md-6">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
-                                           <label>Home Phone Number<span>*</span></label>
+                                           <label>Primary Phone Number<span>*</span></label>
                                            <input class="form-control" placeholder="Primary Phone Number" id="primaryphone" name="primaryphone" required>
                                             <p class="help-block"></p>
                                         </div>
@@ -632,7 +632,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 <div class="col-md-6">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
-                                           <label>Mobile Phone Number</label>
+                                           <label>Secondary Phone Number</label>
                                             <input class="form-control" placeholder="Secondary Phone Number" id="secondaryphone" name="secondaryphone" >
                                             <p class="help-block"></p>
                                         </div>
@@ -666,12 +666,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
 
                                 </div>
-                                
-                            </div>                
 
- 
+                            </div>
 
-                         <div class="row">
+
+
+                    <!--     <div class="row">
                                 <div class="col-md-6">
                                     <div class="row control-group">
                                         <div class="form-group col-xs-12 controls">
@@ -685,7 +685,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
 
                                 </div>
-
+                        -->
 
                                 <div class="col-md-6">
                                     <div class="row control-group">
@@ -705,21 +705,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
 
                                 </div>
-                                
+
 
                         <div class="col-md-12">
                             <div class="row control-group">
                                 <div id="checkWaiver" class="checkbox col-xs-12 controls">
                                     <p style="color:#777;">The YJA Convention Souvenir Booklet will include a directory with attendees' state of residence, name, age, and email. You can choose to opt out of the directory.</p>
                                     <label><input id="opt_out" name="opt_out" value="1" type="checkbox" required> I do not want my name and contact information to be included in the Souvenir Booklet</label>
-                                    
+
                                     <p class="help-block"></p>
                                 </div>
                             </div>
-                        </div> 
+                        </div>
 
 
-                            </div>     
+                            </div>
 
 
 
@@ -735,14 +735,14 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                     </div>
 
                                 </div>
- 
- 
+
+
 
                             </div>
 
                             <div id="success"></div>
                             <div class="row">
-                                 
+
                                 <div class="form-group col-xs-12">
                                     <button type="submit" class="btn btn-theme-bg btn-lg">Register</button>
                                 </div>
@@ -751,20 +751,20 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
                     </div><!--contact form-->
                 </div>
-                
+
             </div>
         </div>
         <div class="divide40"></div>
 
- 
+
         <div class="divide60"></div>
-       
+
         <?php include 'config/footer.php' ?>
         <!--scripts and plugins -->
         <!--must need plugin jquery-->
-        <script src="js/jquery.min.js"></script>        
+        <script src="js/jquery.min.js"></script>
         <!--bootstrap js plugin-->
-        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>       
+        <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <!--sticky header-->
@@ -774,21 +774,21 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <!--parallax background plugin-->
         <script src="js/jquery.stellar.min.js" type="text/javascript"></script>
 
- 
 
-  
+
+
 
   <script src="http://code.jquery.com/jquery-2.1.3.min.js"></script>
-  <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script> 
+  <script src="http://cdn.jsdelivr.net/jquery.validation/1.13.1/jquery.validate.min.js"></script>
   <script src='https://www.google.com/recaptcha/api.js'></script>
   <script type="text/javascript" charset="utf8" src="/js/jquery.dataTables.js"></script>
   <script src="/js/init.js"></script>
 <script>
 
-        
+
 
 $('#country').change(function(){
-    var country = $('#country').val(); 
+    var country = $('#country').val();
     if (country == "USA"){
         $('#state_input').hide();
         $("#state_dropin").removeAttr('required');
@@ -816,7 +816,7 @@ $("#signupForm").submit(function(e) {
 
     $(ref).each(function(){
         if ( $(this).val() == '' )
-        { 
+        {
 
             $(this).attr('style', "border-radius: 5px; border:#FF0000 1px solid;");
 
@@ -828,6 +828,6 @@ $("#signupForm").submit(function(e) {
     });  return true;
 });
 </script>
- 
+
     </body>
 </html>

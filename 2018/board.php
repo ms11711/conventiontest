@@ -84,7 +84,7 @@
                 <div class="col-md-4">
                     <h3 class="heading">YJA Convention Board</h3>
                     <p>
-                        Introducing the 2018 YJA Convention Board members. This year we have an extremely talented group of individuals that have gone above and beyond in their efforts to organize the best YJA convention yet!
+                        Introducing the 2018 YJA Convention Board members. This year we have an extremely talented group of individuals who are going above and beyond in organizing the best YJA convention yet!
                     </p>
                 </div>
                 <div class="col-md-8">
