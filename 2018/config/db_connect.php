@@ -3,7 +3,7 @@
 $dbhost = 'localhost';
 $dbuser = 'root';
 $dbpass = 'yja$bo@rd';
-$db = 'registration2016';
+$db = 'registration2018';
 
 $conn = mysql_connect($dbhost,$dbuser,$dbpass);
 

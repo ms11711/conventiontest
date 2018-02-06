@@ -6,7 +6,7 @@
 
 $config_title = "2018 YJA Convention";
 $config_description = "The 2018 YJA Convention is here! It is going to be held in the wonderful city of Chicago.";
-$config_keywords = "YJA, 2018, Convention, Los Angeles";
+$config_keywords = "YJA, 2018, Convention, Chicago";
 $config_favicon = '<link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
     <link rel="icon" href="img/favicon.png" type="image/x-icon">';
 
