@@ -68,8 +68,8 @@
                   </div>
               </div>
           </div><!--coming soon image-->
-          <div class="divide60"></div>
-          <div class="container about-event-continer">
+          <!-- <div class="divide60"></div> -->
+<!--           <div class="container about-event-continer">
               <div class="row">
                   <div class="col-md-8 col-md-offset-2 text-center">
                       <div class="center-heading">
@@ -82,7 +82,7 @@
                       <div class="row">
                           <div class="col-md-3 col-sm-6 margin40">
                               <div class="event-digit-box">
-                                  <!--<h1 class="counter"><?php echo $totalCount ?></h1>-->
+                                  <h1 class="counter"><?php echo $totalCount ?></h1>
                                   <h1 class="counter">650</h1>
                                   <h4>Registered</h4>
                               </div>
@@ -102,7 +102,7 @@
                           <div class="col-md-3 col-sm-6 margin40">
                               <div class="event-digit-box">
                                   <h1 class="counter">0</h1>
-                                  <!--<h1 class="counter"><?php echo $remainingCount ?></h1>-->
+                                  <h1 class="counter"><?php echo $remainingCount ?></h1>
                                   <h4>Spaces left</h4>
                               </div>
                           </div>
@@ -110,56 +110,54 @@
                       <a href="/register.php" class="btn btn-lg btn-theme-dark">Register Now</a>
                   </div>
               </div>
-          </div><!--event about end-->
-          <div class="divide60"></div>
-
-
-  <div class="blue-bg">
+          </div> -->
+          <!--event about end-->
+          <!-- <div class="divide60"></div> -->
+<!--        <div class="blue-bg">
               <div class="container">
                   <div class="row">
                       <div class="col-sm-4 margin30">
-                          <div class="services-box wow animated fadeInDown">
-                              <div class="services-box-icon">
-                              </div><!--services icon-->
-                              <div class="services-box-info">
-                                  <h4>Daytime Programming</h4>
-                                  <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime session details will be coming soon! </p>
-                      <!--               <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a> -->
-                              </div>
-                          </div><!--service box-->
+                        <div class="services-box wow animated fadeInDown">
+                        <div class="services-box-icon"></div>
+                          <div class="services-box-info">
+                              <h4>Daytime Programming</h4>
+                              <p>Welcome to Daytime Programming at the 2018 Young Jains of America (YJA) Convention! This convention will connect nearly 700 young Jains from around the world! Daytime session details will be coming soon! </p>
+                                <a href="daytime" class="btn btn-theme-dark btn-sm">Continue Reading</a>
+                          </div>
+                        </div>
                       </div>
                        <div class="col-sm-4 margin30">
                           <div class="services-box wow animated fadeInDown">
-                              <div class="services-box-icon">
-                              </div><!--services icon-->
+                              <div class="services-box-icon"></div>
                               <div class="services-box-info">
                                   <h4>Social Events</h4>
                                   <p>Join us at the Westin O'hare for the 2018 YJA convention to experience a weekend of social events you won’t forget! Social Programming will be coming soon. </p>
-                <!--                      <a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div> -->
+                                     <a href="social" class="btn btn-theme-dark btn-sm">Continue Reading</a></div>
                               </div>
-                          </div><!--service box-->
+                          </div>
                       </div>
                       <div class="col-sm-4 ">
                           <div class="services-box wow animated fadeInUp">
-                              <div class="services-box-icon">
-                              </div><!--services icon-->
+                              <div class="services-box-icon"></div>
                               <div class="services-box-info">
                                   <h4>Jain Networking Forum</h4>
                                   <p>
                                      Jain Networking Forum (JNF) is designed for Jains between the ages of 21-29 and has the goal of fostering professional and social relationships. JNF details will be coming soon! </p>
-                        <!--             <a href="jnf" class="btn btn-theme-dark btn-sm">Continue Reading</a></div> -->
+                                    <a href="jnf" class="btn btn-theme-dark btn-sm">Continue Reading</a>
                               </div>
-                          </div><!--service box-->
+                          </div>
                       </div>
-                  </div>
               </div>
-          </div><!--full wide 2 columns content end-->
+            </div>-->
+            </div>
+            </div>
+          <!--full wide 2 columns content end-->
   <!--        <div class="divide60"></div> -->
 
 
 
           <div class="container">
-              <div class="row">
+<!--               <div class="row">
                   <div class="col-sm-6 col-sm-offset-3 text-center">
                       <div class="soon-inner">
 
@@ -186,9 +184,8 @@
                           </ul>
                       </div>
                   </div>
-              </div>
+              </div> -->
 
-          <div class="divide30"></div>
           <?php include "config/footer.php" ?>
 
 
