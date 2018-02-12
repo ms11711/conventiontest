@@ -6054,6 +6054,16 @@ si-border {
   border: 1px dashed #999;
 }
 
+/*Kavit*/
+.chicago-bg {
+  background: url(../img/backgroundYJA.png);
+  padding: 100px 0;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 50% 0;
+}
 /**********************
 
 UNDER CUNSTRUCTION PAGES v1.9

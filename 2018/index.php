@@ -50,24 +50,26 @@
   <?php include 'config/nav.php' ?>
 
           <div class="coming-soon">
-              <div class="overlay"></div>
-              <div class="container">
+
+            <img src="img/yjalogonoslogan.png" alt="yjalogonoslogan">
+              <!-- <div class="overlay"></div> -->
+<!--               <div class="container">
                   <div class="row">
                       <div class="col-sm-8 col-sm-offset-2 text-center">
                           <h2 style="color:white;">YJA 2018 Convention</h2>
                           <h2 style="color:white;">July 5<sup>th</sup> - July 8th<sup>th</sup></h2>
                           <h3 style="color:white;">Chicago, IL </h3>
-                          <!--<div class="count-down-1" id="clock"></div>-->
-                          <!-- <a href="videos" class="btn btn-theme-bg btn-sm" style="margin-right:20px;"><strong>Watch Convention Videos</strong></a>
-                          <a href="souvenirbook" class="btn btn-theme-bg btn-sm"><strong>Download Souvenir Book</strong></a> -->
-                          <!-- <br><br>
-                          <a href="https://www.surveymonkey.com/r/yja2016" target="_blank" class="btn btn-theme-bg btn-sm"><strong>Fill Out Convention Survey</strong></a> -->
-                          <!-- <br><br>
-                          <a href="letter" class="btn btn-theme-bg btn-sm"><strong>A Letter from the Co-Chairs</strong></a> -->
+                          <div class="count-down-1" id="clock"></div>
+                          <a href="videos" class="btn btn-theme-bg btn-sm" style="margin-right:20px;"><strong>Watch Convention Videos</strong></a>
+                          <a href="souvenirbook" class="btn btn-theme-bg btn-sm"><strong>Download Souvenir Book</strong></a>
+                          <br><br>
+                          <a href="https://www.surveymonkey.com/r/yja2016" target="_blank" class="btn btn-theme-bg btn-sm"><strong>Fill Out Convention Survey</strong></a>
+                          <br><br>
+                          <a href="letter" class="btn btn-theme-bg btn-sm"><strong>A Letter from the Co-Chairs</strong></a>
                       </div>
                   </div>
-              </div>
-          </div><!--coming soon image-->
+              </div> -->
+          </div>
           <!-- <div class="divide60"></div> -->
 <!--           <div class="container about-event-continer">
               <div class="row">
